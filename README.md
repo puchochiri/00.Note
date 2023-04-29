@@ -10,6 +10,10 @@
   원인: java.lang.ClassNotFoundException: org.apache.catalina.startup.Bootstrap
   에러 발생
   https://sarc.io/index.php/forum/question-and-answer/135-6-0
+  
+  에러: 정보: 프로덕션 환경들에서 최적의 성능을 제공하는, APR 기반 Apache Tomcat Native 라이브러리가, 다음 java.library.path에서 발견되지 않습니다: [C:\Program Files\OpenJDK\amazon_jdk11.0.18_10\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program 
+  
+ 
 05.  reactnative   20
 06. 스프링부트     20
 07. ERD       
