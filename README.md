@@ -18,7 +18,10 @@
       vscode : 줄복사 shift option 위아래, 줄삭제 : shife cmd k
       component : prop 사용법
 06. 스프링부트     20
-07. ERD       
-08. 프로그래머스   20
+      jpa : 삭제 
+      jpa : @Commit, @transactional, @Query 확인
+8. ERD       
+      Okky 참조 진행
+10. 프로그래머스   20 --> 못함
 
 
