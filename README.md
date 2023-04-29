@@ -16,6 +16,7 @@
  
 05.  reactnative   20
       vscode : 줄복사 shift option 위아래, 줄삭제 : shife cmd k
+      component : prop 사용법
 06. 스프링부트     20
 07. ERD       
 08. 프로그래머스   20
