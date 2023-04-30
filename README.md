@@ -13,8 +13,10 @@
 05  웹프로젝트 15
     spring 경량화 framework, AOP, Transaction 지원
 06. REACT NATIVE 25
-07. 웹스프링부트 25
-08. 프로그래머스 15
+    android, ios 책 내용 먼저 섭렵 후 2turn 때 web 추가할것
+8. 웹스프링부트 25
+    thymleaf 사용시적
+10. 프로그래머스 15
 
 
 
