@@ -16,6 +16,7 @@
     android, ios 책 내용 먼저 섭렵 후 2turn 때 web 추가할것
 8. 웹스프링부트 25
     thymleaf 사용시적
+    intellij git/share project on github --> 최초 project repository생성 및 pull & push
 10. 프로그래머스 15
 
 
