@@ -5,7 +5,10 @@
 02. 타자 10
     세례요한의 죽음, 무리들이 예수를 따름
 03. ERD 10
+    board user, authority table // jex06 sql 문 참고하여 erd_cloud 생성
+    먼저 react 게시판 구현 --> 서비스 구현
 04. REACT 15
+    
 05  웹프로젝트 15
 06. REACT NATIVE 25
 07. 웹스프링부트 25
