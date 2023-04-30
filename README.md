@@ -8,8 +8,10 @@
     board user, authority table // jex06 sql 문 참고하여 erd_cloud 생성
     먼저 react 게시판 구현 --> 서비스 구현
 04. REACT 15
+    java 1.8 삭제 --> 환경변수 open jdk11 읽음
     
 05  웹프로젝트 15
+    spring 경량화 framework, AOP, Transaction 지원
 06. REACT NATIVE 25
 07. 웹스프링부트 25
 08. 프로그래머스 15
