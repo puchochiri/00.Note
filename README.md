@@ -11,6 +11,7 @@
     - controller/service/db 로 메소드 나눔/ 한곳에서 가독성 떨어짐
     - lombok -> getter, setter 사용대신함
 05. 웹프로젝트 15
+    - autowired, 객체가져오기, @component 확인, xml namespace context 추가
 06. REACT NATIVE 25
 07. 웹스프링부트 25
 08. 프로그래머스 15
