@@ -6,6 +6,7 @@
 02. 타자10
     - 예수가 한적한 곳으로 가나, 무리들이 듣고 나옴, 불쌍히여겨 그들과 있다 밥먹을 시간이 되어 오병이어 기적을 일으킴
 03. ERD 15
+    - 웹springframework 게시판- users authorities table 생성
 04. REACT 15
 05. 웹프로젝트 15
 06. REACT NATIVE 25
