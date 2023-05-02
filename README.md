@@ -14,6 +14,7 @@
 6. REACT NATIVE 25
    style주기, radius, 크기 주기
 7. 웹스프링부터 25
+   thymeleaf 반복문 처리
 8. 프로그래머스 15
 
 
