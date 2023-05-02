@@ -4,8 +4,9 @@
 2300502
 1. 내평생에 가는길 7
 2. 타자 7
-    병든 자들이 낫고자 예수님 옷자락이라고 만지고 낫음.
+   병든 자들이 낫고자 예수님 옷자락이라고 만지고 낫음.
 3. ERD 10
+   tbl_member, tbl_member_auth, persistent_logins 생성
 4. REACT 15
 5. 웹프로젝트 15
 6. REACT NATIVE 25
