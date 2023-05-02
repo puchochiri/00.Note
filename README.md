@@ -8,6 +8,7 @@
 3. ERD 10
    tbl_member, tbl_member_auth, persistent_logins 생성
 4. REACT 15
+   TodoDTO, ResponseDTO 생성
 5. 웹프로젝트 15
 6. REACT NATIVE 25
 7. 웹스프링부터 25
