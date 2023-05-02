@@ -10,6 +10,7 @@
 4. REACT 15
    TodoDTO, ResponseDTO 생성
 5. 웹프로젝트 15
+   단위테스트 spring-test dependency 추가, Runwith(Spring4Runner.class) 사용위함
 6. REACT NATIVE 25
 7. 웹스프링부터 25
 8. 프로그래머스 15
