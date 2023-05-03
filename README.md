@@ -9,6 +9,7 @@
    에러: > Process 'command 'C:/Users/doawi/.jdks/corretto-11.0.19/bin/java.exe'' finished with non-zero exit value 1
     참고 : https://yjh5369.tistory.com/entry/intellij-%EC%8B%A4%ED%96%89-%EC%8B%9C-finished-with-non-zero-exit-value-1-%EC%98%A4%EB%A5%98
 4. 웹프로젝트 15
+   @Test, @ContextConfiguration(path) --> xml설정, 자바 설정 확인, 객체 autowired test
 5. REACT NATIVE 20
 6. 웹스프링부트 20
 7. 프로그래머스 15
