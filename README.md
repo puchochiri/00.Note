@@ -13,6 +13,7 @@
 5. REACT NATIVE 20
    backgroundcolor적용, prop대신 비구조화 할당 사용
 6. 웹스프링부트 20
+   thymeleaf if unless, 삼항연상자, style 사용
 7. 프로그래머스 15
 
 
