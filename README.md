@@ -11,6 +11,7 @@
 4. 웹프로젝트 15
    @Test, @ContextConfiguration(path) --> xml설정, 자바 설정 확인, 객체 autowired test
 5. REACT NATIVE 20
+   backgroundcolor적용, prop대신 비구조화 할당 사용
 6. 웹스프링부트 20
 7. 프로그래머스 15
 
