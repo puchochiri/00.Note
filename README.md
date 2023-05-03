@@ -6,6 +6,8 @@
             병든 딸있는 여인이 예수앞에 나옴
 2. ERD 10 : okky user table  생성
 3. REACT 15
+   에러: > Process 'command 'C:/Users/doawi/.jdks/corretto-11.0.19/bin/java.exe'' finished with non-zero exit value 1
+    참고 : https://yjh5369.tistory.com/entry/intellij-%EC%8B%A4%ED%96%89-%EC%8B%9C-finished-with-non-zero-exit-value-1-%EC%98%A4%EB%A5%98
 4. 웹프로젝트 15
 5. REACT NATIVE 20
 6. 웹스프링부트 20
