@@ -6,8 +6,8 @@
 3. ERD 10: logged in  테이블 생성
 4. REACT 15:
 5. 웹프로젝트 15
-6. REACT NATIVE 20
-7. 웹스프링부터 20
+6. REACT NATIVE 15
+7. 웹스프링부터 15
 8. 프로그래머스 15
 
 230503
