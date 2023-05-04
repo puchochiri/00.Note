@@ -8,7 +8,7 @@
 4. REACT 10: getmapping test 
 5. 웹프로젝트 10 @Component, 의존성 주입 테스트
 6. REACT NATIVE 10 Button 태그 사용 및 toggle 사용
-7. 웹스프링부터 10
+7. 웹스프링부터 10 inline 속성
 8. 프로그래머스 10
 
 230503
