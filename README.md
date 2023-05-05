@@ -14,6 +14,7 @@
 8. modern javascript 10 목차 읽음
 8. REACT NATIVE 25
    프로젝트 생성 : npx react-native init LearnReactNative_01_counter
+   ios는 매번 프로젝트 생성떄 마다 cd ios, pod install 해야만 실행 됨
 9. 웹스프링부트 25
 
 230504
