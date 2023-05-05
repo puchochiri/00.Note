@@ -17,8 +17,7 @@
    ios는 매번 프로젝트 생성떄 마다 cd ios, pod install 해야만 실행 됨
    /Users/yangseon-u/Library/Developer/Xcode/DerivedData/LearnReactNative_01_counter-arsvkrvquhywciedkgrzjffxaeir/Build/Intermediates.noindex/LearnReactNative_01_counter.build/Debug-iphonesimulator/LearnReactNative_01_counter.build/DerivedSources/LearnReactNative_01_counter_vers.c module map file '/Users/yangseon-u/Library/Developer/Xcode/DerivedData/LearnReactNative_01_counter-arsvkrvquhywciedkgrzjffxaeir/Build/Products/Debug-iphonesimulator/YogaKit/YogaKit.modulemap' not found
 -->참조 https://stackoverflow.com/questions/63261150/yogakit-modulemap-not-found-after-running-the-ios-simulator
-
-.xcworkspace 열것
+해결 : xcode 에서 .xcworkspace 열것
 
 
 
