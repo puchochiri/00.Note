@@ -5,15 +5,15 @@
 1. 내 평생에 가는길
 2. 신문
 3. 타자 5 : 예수께서 병자들을 고치심. 마태복음 15장 22절
-4. 프로그래머스 15 * 2 : 나머지구하기, 젊은동물 구하기
-5. ERD 15 * 2 식별관계, 비식별관계
+4. 프로그래머스 15 : 나머지구하기, 젊은동물 구하기
+5. ERD 15 식별관계, 비식별관계
    식별관계 : FK가 키값, 부모 자식관계, 부모 엔티티값이 없으면 자식 엔티티의 값도 없어짐
    비식별관계 : PK가 있고 FK가 있음,부모자식 관계 가지나, 비종속적인 관계, 부모의 고유값이 없어도    자식엔티티가 자체적은 값을 가질 수 있는 상태
-6. REACT 15 * 2 testGetMapping, 과금AWS instance 삭제 참고 https://extsdd.tistory.com/259
-7. 웹프로젝트 15 * 2 mariadb, dbeaver 설치
+6. REACT 15 testGetMapping, 과금AWS instance 삭제 참고 https://extsdd.tistory.com/259
+7. 웹프로젝트 15 mariadb, dbeaver 설치
 8. modern javascript 10 목차 읽음
-8. REACT NATIVE 15 * 2
-9. 웹스프링부트 15 * 2
+8. REACT NATIVE 25
+9. 웹스프링부트 25
 
 230504
 날씨 흐림, 퇴근 어린이날전이라 차막혀서 늦음
