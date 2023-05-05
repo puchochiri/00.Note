@@ -19,10 +19,8 @@
 -->참조 https://stackoverflow.com/questions/63261150/yogakit-modulemap-not-found-after-running-the-ios-simulator
 해결 : xcode 에서 .xcworkspace 열것
 
+9. 웹스프링부트 25 : th:block 설정
 
-
-   
-9. 웹스프링부트 25
 
 230504
 날씨 흐림, 퇴근 어린이날전이라 차막혀서 늦음
