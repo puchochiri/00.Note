@@ -13,6 +13,7 @@
 7. 웹프로젝트 15 mariadb, dbeaver 설치
 8. modern javascript 10 목차 읽음
 8. REACT NATIVE 25
+   프로젝트 생성 : npx react-native init LearnReactNative_01_counter
 9. 웹스프링부트 25
 
 230504
