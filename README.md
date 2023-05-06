@@ -24,11 +24,12 @@
   js : 두수의 곱
 5. ERD 15
   authid 생성
-6. REACT 10
-7. 웹프로젝트 10
-8. 모던 자바스크립트 10
-9. REACT NATIVE 10
-10. spring boot 10
+6. REACT 8
+  
+7. 웹프로젝트 8
+8. 모던 자바스크립트 8
+9. REACT NATIVE 8
+10. spring boot 8
 
 
 
