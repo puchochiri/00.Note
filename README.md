@@ -32,7 +32,9 @@ create user 'book_ex'@'%' identified by 'book_ex';
 grant all privileges on book_ex.* to 'book_ex'@'%';
 flush privileges;
 show grants for 'book_ex'@'%';
-8. 모던 자바스크립트 8
+8. 모던 자바스크립트 5
+1995 넷스케이프 javascript 개발 브렌던 아이크가 개발, 마이크로소프트 JScript 와 독자개발하면서, 크로스브라우징 이슈 발생,
+넷스케이프 표준화 요청 1997 ECMAScript(ES1) 이후 ES11까지 업데이트 됨
 9. REACT NATIVE 8
 10. spring boot 8
 
