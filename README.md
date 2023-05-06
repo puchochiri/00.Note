@@ -27,6 +27,11 @@
 6. REACT 8
   @PathVariable
 7. 웹프로젝트 8
+create database book_ex;
+create user 'book_ex'@'%' identified by 'book_ex';
+grant all privileges on book_ex.* to 'book_ex'@'%';
+flush privileges;
+show grants for 'book_ex'@'%';
 8. 모던 자바스크립트 8
 9. REACT NATIVE 8
 10. spring boot 8
