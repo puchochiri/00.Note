@@ -36,7 +36,9 @@ show grants for 'book_ex'@'%';
 1995 넷스케이프 javascript 개발 브렌던 아이크가 개발, 마이크로소프트 JScript 와 독자개발하면서, 크로스브라우징 이슈 발생,
 넷스케이프 표준화 요청 1997 ECMAScript(ES1) 이후 ES11까지 업데이트 됨
 9. REACT NATIVE 8
-10. spring boot 8
+counter component 작성
+10. spring boot 5
+링크 처리
 
 
 
