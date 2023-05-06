@@ -24,10 +24,10 @@
   js : 두수의 곱
 5. ERD 15
   authid 생성
-6. REACT 20
-7. 웹프로젝트 20
-8. 모던 자바스크립트 25
-9. REACT NATIVE 25
+6. REACT 10
+7. 웹프로젝트 10
+8. 모던 자바스크립트 10
+9. REACT NATIVE 10
 
 
 
