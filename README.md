@@ -31,7 +31,8 @@
    ajax 등장으로, 화면을 통째로 html, css 가져오는 것을, 필요한 것만 가져오도록 되었고,
    구글맵스를 자바스크립트 ajax로 구현함으로 유효성을 인정받음
    jquey js사용성 확대했고, node.js로 서버단 언어로도 사용할 수 있음
-9. REACT NATIVE 10
+9. REACT NATIVE 15
+    counter ui 생성
 10. 웹스프링프트 10
 
 
