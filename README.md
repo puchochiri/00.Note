@@ -20,6 +20,13 @@
 6. REACT 10
   @pathVariable, @RequestParam
 7. 웹프로젝트 10
+   mariadb pom추가
+  		<!-- https://mvnrepository.com/artifact/org.mariadb.jdbc/mariadb-java-client -->
+		<dependency>
+		    <groupId>org.mariadb.jdbc</groupId>
+		    <artifactId>mariadb-java-client</artifactId>
+		    <version>3.0.8</version>
+		</dependency>
 8. 모던자바스크립트 10
 9. REACT NATIVE 10
 10. 웹스프링프트 10
