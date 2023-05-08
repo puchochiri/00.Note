@@ -11,6 +11,7 @@
 6. 웹프로젝트 10
 	JDBCTest
 7. 모던자바스크립트 10
+	console.log 개발자 모드에서 사용
 8. REACT NATIVE 10
 9. 웹스프링부트 10
 
