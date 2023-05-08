@@ -9,6 +9,7 @@
 5. REACT 10
 	@requestbody사용 test
 6. 웹프로젝트 10
+	JDBCTest
 7. 모던자바스크립트 10
 8. REACT NATIVE 10
 9. 웹스프링부트 10
