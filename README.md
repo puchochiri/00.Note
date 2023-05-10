@@ -10,8 +10,8 @@
 5. REACT 10 : response entity 사용, Controller, service 작성
 6. 웹프로젝트 10 ; Hikari CP dependency 추가
 7. 모던자바스크립트 10
-8. REACT NATIVE 10
-9. 웹스프링부트 10
+8. REACT NATIVE 10 vscode git/coommit 메시지 남겨야 github에 올릴수 있음
+10. 웹스프링부트 10
 
 230509
 날씨 좋음 반지 안끼고 나가 싸움, 반지 계속 낄 것
