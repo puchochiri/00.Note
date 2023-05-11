@@ -9,7 +9,7 @@
 7. 웹프로젝트 10 : root_xml, rootconfig 설정
 8. 모던자바스크립트  10 : 디버깅
 9. REACT NATIVE 10 : npx reaactNatvie init ReactNative_TodoApp 
-10. 웹스프링부트 10 :
+10. 웹스프링부트 10 : localdateTime
 
 230510
 날씨 좋음 6시 집에서 나가 6시 27분 출근버스 타고 7시 30분 기흥 도착 아침먹고, 업무시작
