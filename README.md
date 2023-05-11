@@ -8,7 +8,7 @@
 6. REACT 10 : Controller,Service
 7. 웹프로젝트 10 : root_xml, rootconfig 설정
 8. 모던자바스크립트  10 : 디버깅
-9. REACT NATIVE 10 :
+9. REACT NATIVE 10 : npx reaactNatvie init ReactNative_TodoApp 
 10. 웹스프링부트 10 :
 
 230510
