@@ -5,10 +5,12 @@
 3. 프로그래머스 10
 4. ERD 10 ENTITY, ENTITY별관계 확인
 5. REACT 10 BoardEntity 생성,  Generic 생성
-6. 웹프로젝트 10
-7. 모던자바스크립트 10
-8. REACT NATIVE 10
-9. 웹스프링부트 10
+6. 웹프로젝트 10 
+내부망에서 어떻게 사용할 것인가
+(conn=9) Access denied for user 'book-ex'@'localhost' (using password: YES)
+8. 모던자바스크립트 10
+9. REACT NATIVE 10
+10. 웹스프링부트 10
 
 230515
 1. 내평생에 가는길 5
