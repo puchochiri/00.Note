@@ -11,11 +11,12 @@ react-devtools
 https://reactnative.dev/docs/debugging
 
 4. 웹스프링부트 10
-5. ERD 10
-6. 모던자바스크립트 10
-7. REACT 10
-8. 웹프로젝트 10
-9. 프로그래머스 10
+sample.test.test 로 intellij 폴더 만들어지는 문제 project/compact packages~ 해제
+6. ERD 10
+7. 모던자바스크립트 10
+8. REACT 10
+9. 웹프로젝트 10
+10. 프로그래머스 10
 
 230517
 1. 내 평생에 가는길 5
