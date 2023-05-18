@@ -4,7 +4,10 @@
  view 안가져옮, log 안찍고 있음
 1. 내 평생에 가는길 5
 2. 타자 5 예수가 장차 다른사람들에게 넘겨질 것이라 말함
-3. react native 20
+3. react native 20 
+debugginb tool : npm install -g react-devtools
+
+
 4. 웹스프링부트 10
 5. ERD 10
 6. 모던자바스크립트 10
