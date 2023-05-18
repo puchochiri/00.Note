@@ -16,7 +16,28 @@ sample.test.test 로 intellij 폴더 만들어지는 문제 project/compact pack
 7. 모던자바스크립트 10
 8. REACT 10
 9. 웹프로젝트 10
-10. 프로그래머스 10
+cvc-complex-type.2.4.a: Invalid content was found starting 
+ with element '{"http://maven.apache.org/POM/
+ 4.0.0":repositories}'. One of '{"http://maven.apache.org/POM/
+ 4.0.0":dependency}' is expected.
+ 
+ 
+  <repositories>
+    <repository>
+      <id>Cloudera 4 repo</id>
+      <url>https://repository.cloudera.com/artifactory/cloudera-repos/</url>
+    </repository>
+<!-- In Project repository -->
+    <repository>
+      <id>in-project</id>
+      <name>In Project Repo</name>
+      <url>file://${project.basedir}/lib</url>
+    </repository>
+  </repositories>
+  
+  https://github.com/livingsocial/HiveSwarm/blob/8345130e3da37555c0ca36da538bfd4f4ee3c834/pom.xml#L55
+ 
+11. 프로그래머스 10
 
 230517
 1. 내 평생에 가는길 5
@@ -27,7 +48,10 @@ sample.test.test 로 intellij 폴더 만들어지는 문제 project/compact pack
 7. 모던자바스크립트 10
 8. REACT 10 
 9. 웹프로젝트 10 : 인터넷 없는 환경에서 셋팅 https://okky.kr/questions/412245
-
+cvc-complex-type.2.4.a: Invalid content was found starting 
+ with element '{"http://maven.apache.org/POM/
+ 4.0.0":repositories}'. One of '{"http://maven.apache.org/POM/
+ 4.0.0":dependency}' is expected.
 10. 프로그래머스 10
 
 230516
