@@ -5,6 +5,7 @@
 1. 내 평생에 가는길 5
 2. 타자 5 예수가 장차 다른사람들에게 넘겨질 것이라 말함
 3. react native 20 
+debugger안됨
 debugginb tool : npm install -g react-devtools
 react-devtools
 https://reactnative.dev/docs/debugging
