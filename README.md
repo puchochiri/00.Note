@@ -6,7 +6,8 @@
 2. 타자 5 예수가 장차 다른사람들에게 넘겨질 것이라 말함
 3. react native 20 
 debugginb tool : npm install -g react-devtools
-
+react-devtools
+https://reactnative.dev/docs/debugging
 
 4. 웹스프링부트 10
 5. ERD 10
