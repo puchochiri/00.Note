@@ -7,8 +7,8 @@
 3. react 10
 4. 웹프로젝트 20
 maven없이 스프링(Spring) 프로젝트 만들기 (1) - 프로젝트 생성하기 - https://developer-syubrofo.tistory.com/14
-6. react 30
-7. spring boot 20
+6. react 20 숫자표현
+7. spring boot 20 
 8. ERD 10
 9. 모던자바스크립트 10
 10. 프로그래머스 10
