@@ -7,9 +7,9 @@
 4. 모던자바스크립트 10 vscode CodeRunnder Ctrl Alr N  실행 단축키 mac control option N
 6. ERD 10
 7. react 10
-8. 웹프로젝트 20
-9. react native 30
-10. spring boot 10
+9. 웹프로젝트 20  yarn add react-native-safe-area-context
+10. react native 30
+11. spring boot 10
 
 
 230519
