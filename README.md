@@ -4,7 +4,7 @@
 몸살끼 있음
 1. 내 평생에 가는 길 5
 2. 타자 5 예수께서 손발눈이 죄짓게 하면 찍어 버리하 하심, 찍어버리고 죄 안짓고 천국가는게 낫다고 하심. 낮은자는 하나님을 뵙는 자들이니 잘하고 하심.
-4. 모던자바스크립트 10 vscode CodeRunnder Ctrl Alr N  실행 단축키
+4. 모던자바스크립트 10 vscode CodeRunnder Ctrl Alr N  실행 단축키 mac control option N
 6. ERD 10
 7. react 10
 8. 웹프로젝트 20
