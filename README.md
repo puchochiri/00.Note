@@ -8,8 +8,10 @@ spring message이용해서 다국어, maven --> jar 로 하여 실행해 볼것
 4. ERD 10
 5. react 10
 6. 웹프로젝트 20
-7. react native 20
-8. 웹스프링부트 10
+ (conn=31) Access denied for user 'book-ex'@'localhost' (using password: YES)
+Current charset is UTF-8. If password has been set using other charset, consider using option 'passwordCharacterEncoding'
+8. react native 20
+9. 웹스프링부트 10
 
 230522
 날씨좋음, 와이프도 감기몸살 걸림 퇴근하고 오니, 온몸이 불덩이임, 타이레놀 먹이고, 죽먹임
