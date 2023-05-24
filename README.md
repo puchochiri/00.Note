@@ -2,14 +2,22 @@
 230524
 날씨좋음, 몸살감기 거의 낫음, 와이프도 많이 괜찮아짐.
 
+
+
 1. 내 평생에 가는 길 5
 2. 타자 5 사람이 완악하므로 모세가 이혼할 수 있도록 함 본래, 간통하지 않거든, 이혼하는자는 간음함임.
 3. 모던 자바 스크립트 10
 4. ERD 10
 5. REACT 10
-6. 웹프고젝트 20
-7. REACT NATIVE 20
-8. 웹스프링부트 10
+6. 웹프로젝트 20
+ win + s mysql 관리자 실행 후 아래 명령어로 database 명칭, 아이디 - , _ 자세히 확인필요
+show databases;
+use mysql;
+Database changed
+MariaDB [mysql]> select host, user, password from user;
+
+8. REACT NATIVE 20
+9. 웹스프링부트 10
 230523
 날씨좋음, 몸살감기 조금 낫음, 와이프도 조금 나아짐
 spring message이용해서 다국어, maven --> jar 로 하여 실행해 볼것 
