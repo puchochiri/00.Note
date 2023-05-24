@@ -16,6 +16,9 @@ use mysql;
 Database changed
 MariaDB [mysql]> select host, user, password from user;
 
+
+warning: in the working copy of 'src/main/webapp/WEB-INF/web.xml', LF will be replaced by CRLF the next time Git touches it
+git config --global core.autocrlf true
 8. REACT NATIVE 20
 9. 웹스프링부트 10
 230523
