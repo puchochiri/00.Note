@@ -17,6 +17,12 @@ Database changed
 MariaDB [mysql]> select host, user, password from user;
 
 
+warning: in the working copy of 'src/main/java/org/zerock/controller/HomeController.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/main/resources/log4j2.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/main/resources/log4jdbc.log4j2.properties', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/main/webapp/WEB-INF/spring/root-context.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/main/webapp/WEB-INF/views/home.jsp', LF will be replaced by CRLF the next time Git touches it
 warning: in the working copy of 'src/main/webapp/WEB-INF/web.xml', LF will be replaced by CRLF the next time Git touches it
 git config --global core.autocrlf true
 8. REACT NATIVE 20
