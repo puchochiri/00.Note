@@ -14,7 +14,11 @@
 	
 	spring-beans.jar, spring-context.jar 등에서 schema 참조하여 위와같이 수정, 폐쇄망에서 상용가능
 10. REACT NATIVE 20
-11. 웹스프링부트
+      <SafeAreaView edges={['bottom']} style={styles.block}>
+
+	style인지 styles인지 잘 볼것, style로 style 가져옴
+
+12. 웹스프링부트
 
 230525
 오늘 회식함,
