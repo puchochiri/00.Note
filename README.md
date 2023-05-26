@@ -6,10 +6,15 @@
 2. 타자 5 나서 고자 된자가 있고, 사람들로 부터 고자 된자가 있고, 천국을 위해 스스로 고자된자가 있다고 하심, 영생을 얻을려거든 계명을 지키라 하심
 4. 모던 자바 스크립트 10
 5. ERD 10
-6. REACT 10
-7. 웹프로젝트 20
-8. REACT NATIVE 20
-9. 웹스프링부트
+7. REACT 10
+8. 웹프로젝트 20
+	xsi:schemaLocation=
+	"http://www.springframework.org/schema/beans classpath:org/springframework/beans/factory/xml/spring-beans.xsd
+	http://www.springframework.org/schema/context classpath:org/springframework/context/config/spring-context.xsd">
+	
+	spring-beans.jar, spring-context.jar 등에서 schema 참조하여 위와같이 수정, 폐쇄망에서 상용가능
+10. REACT NATIVE 20
+11. 웹스프링부트
 
 230525
 오늘 회식함,
