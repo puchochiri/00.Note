@@ -12,7 +12,9 @@
 9. REACT 10
 10. 웹프로젝트 20 build source 잡아주기
 11. REACT NATIVE 20
-12. 
+	dp = px * 160 / ppi
+	px = dp * ppi / 160
+	iphone 11pro 에서 너비 200의 사이즈에 선명한 이미지를 보여주려면 200 * 458 / 160 = 572.5px의 너비를 가진 이미지를 사용해야함 가장 비슷한 @3x 이미지 사용
 230526
 날씨 좋음, 
 게시판 프레임워크 개발
@@ -31,7 +33,7 @@
       <SafeAreaView edges={['bottom']} style={styles.block}>
 
 	style인지 styles인지 잘 볼것, style로 style 가져옴
-
+	
 12. 웹스프링부트
 
 230525
