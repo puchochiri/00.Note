@@ -10,7 +10,7 @@
 7. ERD 10
 8. SPRING 부트 10
 9. REACT 10
-10. 웹프로젝트 20
+10. 웹프로젝트 20 build source 잡아주기
 11. REACT NATIVE 20
 12. 
 230526
