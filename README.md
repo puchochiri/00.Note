@@ -9,8 +9,10 @@
 5. REACT 10
 6. 웹프로젝트 20 다국어 : https://offbyone.tistory.com/24 참조
 8. 웹스프링부트 10
-9. REACT 20
-10. 신문 금~토 빌라 전세 수요 --> 아파트 전세, TJ 영업이익 250% 상승,
+9. REACT native 20
+simulator keyboard : cmd + k
+
+11. 신문 금~토 빌라 전세 수요 --> 아파트 전세, TJ 영업이익 250% 상승,
 
 230527
 날씨 좋음
