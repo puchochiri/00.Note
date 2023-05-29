@@ -7,10 +7,12 @@
 3. 모던 자바 스크립트 10 감사
 4. ERD 10 감사
 5. REACT 10 감사
-6. 웹프로젝트 20 감사
-7. 웹스프링부트 10 감사
-8. REACT NATIVE 20 감사
-9. 사업보고서 : 메가스터디, TJ미디어
+   IntelliJ에서 Cannot resolve symbol 오류
+   File -> Invalidate Caches
+7. 웹프로젝트 20 감사
+8. 웹스프링부트 10 감사
+9. REACT NATIVE 20 감사
+10. 사업보고서 : 메가스터디, TJ미디어
 
 
 
