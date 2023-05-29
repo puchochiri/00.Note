@@ -10,9 +10,11 @@
    IntelliJ에서 Cannot resolve symbol 오류
    File -> Invalidate Caches
 7. 웹프로젝트 20 감사
-8. 웹스프링부트 10 감사
-9. REACT NATIVE 20 감사
-10. 사업보고서 : 메가스터디, TJ미디어
+   xml 설정 --> 폐쇄망 다국어 설정
+   java 설정 --> 폐쇄망 다국어 설정 필요
+9. 웹스프링부트 10 감사
+10. REACT NATIVE 20 감사
+11. 사업보고서 : 메가스터디, TJ미디어
 
 
 
