@@ -2,6 +2,9 @@
 230603
 날씨좋음
 웹프로젝트 아침
+board master crud
+board crud
+
 
 230602
 책, git 보면서 넘어가기
