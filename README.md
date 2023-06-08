@@ -10,7 +10,12 @@
 
 6. db 15분
 7. 웹스프링부트25분
-8. react native 25 분
+
+* No matching variant of org.springframework.boot:spring-boot-gradle-plugin:3.1.0 was found. The consumer was configured to find a runtime of a library compatible with Java 11, packaged as a jar, and its dependencies declared externally, as well as attribute 'org.gradle.plugin.api-version' with value '7.6.1' but:
+
+
+https://hj0216.tistory.com/463
+9. react native 25 분
 
 230607
 날씨 좋음
