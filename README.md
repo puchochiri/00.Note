@@ -8,6 +8,8 @@
 5. modern javascript 10분
 6. react native 15분
 7. 웹스프링부트 15분
+Attempt to recreate a file for type org.zerock.guestbook_1.entity.QBaseEntity
+
 230612
 날씨 좋음
 1. 내 평생에 가는길
