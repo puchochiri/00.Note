@@ -8,6 +8,9 @@
 5. modern javascript 10분
 6. react native 15분
 7. 웹스프링부트 15분
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'dataSource' defined in class path resource [org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration$Hikari.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.zaxxer.hikari.HikariDataSource]: Factory method 'dataSource' threw exception; nested exception is java.lang.IllegalStateException: Cannot load driver class: org.mariadb.jdbc.Driver
+
+https://sudo-minz.tistory.com/108
 
 230614
 날씨 좋음
