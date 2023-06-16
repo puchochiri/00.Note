@@ -3,10 +3,10 @@
 물류(k식품, kfnb), it개발, youtube
 1. 내 평생에 가는 길
 2. 타자 5분
-3. 웹프로젝트 15분
-4. db 10분
-5. modern javascript 10분
-6. react native 15분
+3. 웹프로젝트 5분
+4. db 5분
+5. modern javascript 5분
+6. 6. react native 5분
 
 
 
