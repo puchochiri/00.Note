@@ -1,4 +1,13 @@
 # 00.Note
+230617
+1. 내평생에 가는 길
+2. 타자 5분
+3. 웹프로젝트 15분
+4. db 10분
+5. modern javascript 10분
+6. react native 15분
+7. spring boot 15부
+
 230616
 물류(k식품, kfnb), it개발, youtube
 1. 내 평생에 가는 길
