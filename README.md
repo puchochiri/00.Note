@@ -7,8 +7,10 @@
 5. modern javascipt 10분
 6. react native 15 분
 7. speing boot 15분
-8. 신문
-9. 치킨
+8. 쿼리?
+9. 신문
+10. 치킨
+
 
 230617
 1. 내평생에 가는 길
