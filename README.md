@@ -8,7 +8,8 @@
 6. modern javascript 10분
 7. react native 15분
 8. spring boot 15분
-
+querydsl 설정
+https://may9noy.tistory.com/854s
 230619
 1. 내 평생에 가는길
 2. 타자 5분
