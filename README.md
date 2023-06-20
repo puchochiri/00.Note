@@ -1,4 +1,14 @@
 # 00.Note
+2300620
+1. 내 평생에 가는길
+2. 타자 5분
+3. 프로그래머스 oracle 10분
+4. 웹프로젝트 15분
+5. db 10분
+6. modern javascript 10분
+7. react native 15분
+8. spring boot 15분
+
 230619
 1. 내 평생에 가는길
 2. 타자 5분
