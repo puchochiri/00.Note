@@ -2,13 +2,14 @@
 230621
 1. 내 평생에 가는길
 2. 타자 5분
-3. oracle 10분
-4. 웹프로젝트 15분
-5. db 10분
-6. modern javascript 10분
-7. react native 15분
-8. spring boot 15분
-9. 
+3. oracle 7분
+5. db 7분
+6. modern javascript 7분
+7. git 7분
+8. 웹프로젝트 15분
+9. react native 15분
+10. spring boot 15분
+
 2300620
 1. 내 평생에 가는길
 2. 타자 5분
