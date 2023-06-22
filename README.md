@@ -1,4 +1,15 @@
 # 00.Note
+230622
+ 창고43 회식
+ 1. 내 평생에 가는길
+ 2. 타자 5분
+ 3. oracle 5분
+ 4. db 5분
+ 5. modern javascript 5분
+ 6. git 5분
+ 7. 웹프로젝트 5분
+ 8. react native 5분
+ 9. spring boot 5분
 230621
 1. 내 평생에 가는길
 2. 타자 5분
