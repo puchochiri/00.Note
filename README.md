@@ -10,6 +10,7 @@
 8. 웹프로젝트 15분
 9. react native 15분
 10. spring boot 15분
+org.junit.platform.commons.JUnitException: TestEngine with ID 'junit-jupiter' failed to discover tests
    
 230622
  창고43 회식
