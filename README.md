@@ -1,4 +1,16 @@
 # 00.Note
+230623
+1. 내 평생에 가는길
+2. 타자 5분
+3. oracle 7분
+4. db 7분
+5. modern javascript 7분
+6. git 7분
+7. java 7분
+8. 웹프로젝트 15분
+9. react native 15분
+10. spring boot 15분
+   
 230622
  창고43 회식
  1. 내 평생에 가는길
