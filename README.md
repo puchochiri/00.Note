@@ -10,10 +10,11 @@
 8. react 7분
 9. 웹프로젝트 15분
 10. react native 15분
-11. spring boot 15분
-12. 신문 : 월 ~ 목
-13. secondlife 7분
-14. react_aws 5분
+Detected multiple Kotlin daemon sessions at build/kotlin/sessions
+12. spring boot 15분
+13. 신문 : 월 ~ 목
+14. secondlife 7분
+15. react_aws 5분
 
 230623
 1. 내 평생에 가는길
