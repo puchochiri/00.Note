@@ -12,7 +12,7 @@
 10. react native 15분
 11. spring boot 15분
 12. 신문 : 월 ~ 목
-13. 은퇴이후의 삷 7분
+13. secondlife 7분
 
 230623
 1. 내 평생에 가는길
