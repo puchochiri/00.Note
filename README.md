@@ -13,6 +13,7 @@
 11. spring boot 15분
 12. 신문 : 월 ~ 목
 13. secondlife 7분
+14. react_aws 5분
 
 230623
 1. 내 평생에 가는길
