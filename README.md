@@ -1,4 +1,22 @@
 # 00.Note
+230627
+1. 내평생에 가는길
+2. 타자 5분
+3. oracle 5분
+4. db 5분
+5. modern javascript  5분
+6. git 5분
+7. java 5분
+8. react 5분
+9. spring framwork 5분(15)
+10. react native 5분(15)
+11. spring boot 5분(15)
+12. secondlife 5분
+13. react aws 5분
+14. 기획서 5분
+15. 피그마 5분
+16. adobe 5분
+ 
 230626
 1. 내 평생에 가는길
 2. 타자 5분
