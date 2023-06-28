@@ -1,4 +1,24 @@
 # 00.Note
+230628
+1. 내평생에 가는길
+2. 타자 5분
+3. sublime 5분
+4. chrome debugging 5분
+5. intellij debugging 5분
+6. intellij plugin  5분 설치
+7. intellij database 5분 설치
+8.  oracle 5분
+9.  modern javascript 5분
+10.  git 5분
+11.  java 5분
+12.  react 5분
+13.  spring framework 5분(15분)
+14.  react native 5분(15분)
+15.  spring boot 5분(15분)
+16.  secondlift 5분
+17.  react aws 5분
+18.  기획서 5분
+19.  피그마 5분
 230627
 1. 내평생에 가는길
 2. 타자 5분
