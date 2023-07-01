@@ -1,4 +1,15 @@
 # 00.Note
+230701
+1. 내 평생에 가는길
+2. 타자 5분
+3. java 5분
+4. javascript 5분
+5. db 5분
+6. spring framework 10분
+7. react 10분
+8. react native 10분
+9. spring boot 10분
+
 230630
 야근, 프로젝트 쭉 야근할 듯
 단축
