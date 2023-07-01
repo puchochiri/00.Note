@@ -8,10 +8,11 @@
 6. spring framework 5분
 7. react 5분
 8. react native 5분
-9. spring boot 5분
-10. 제2의삶(ppt 기획 + 백엔드) 20분
-11. 신문
-12. 북한 붕괴 대비
+   https://docs.expo.dev/troubleshooting/application-has-not-been-registered/
+10. spring boot 5분
+11. 제2의삶(ppt 기획 + 백엔드) 20분
+12. 신문
+13. 북한 붕괴 대비
 
 230630
 야근, 프로젝트 쭉 야근할 듯
