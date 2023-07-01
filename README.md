@@ -5,12 +5,13 @@
 3. java 5분
 4. javascript 5분
 5. db 5분
-6. spring framework 10분
-7. react 10분
-8. react native 10분
-9. spring boot 10분
-10. 신문
-11. 북한 붕괴 대비
+6. spring framework 5분
+7. react 5분
+8. react native 5분
+9. spring boot 5분
+10. 제2의삶
+11. 신문
+12. 북한 붕괴 대비
 
 230630
 야근, 프로젝트 쭉 야근할 듯
