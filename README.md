@@ -9,7 +9,7 @@
 7. react 5분
 8. react native 5분
 9. spring boot 5분
-10. 제2의삶(ppt 기획 + 백엔드)
+10. 제2의삶(ppt 기획 + 백엔드) 20분
 11. 신문
 12. 북한 붕괴 대비
 
