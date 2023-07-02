@@ -1,4 +1,17 @@
 # 00.Note
+230702
+1. 내 평생에 가는길
+2. secondlife 30분
+3. 타자 5분
+4. java 5분
+5. javascript 5분
+6. db 5분
+7. spring framework 5분
+8. react 5분
+9. react native 5분
+10. spring boot 5분
+11. 신문
+12. 
 230701
 1. 내 평생에 가는길
 2. 타자 5분
