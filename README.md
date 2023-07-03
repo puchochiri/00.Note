@@ -3,8 +3,9 @@
 와이프 알바 도림동 뚜레쥬르 사장님 교촌치킨 다녀옴
 1. 내 평생에 가는길
 2. 타자 5분
-3. secondlife(react 25분)
-4. react native(25분)
+3. secondlife(react 20분)
+4. react native(20분)
+5. spring boot(10분)
    
 
 
