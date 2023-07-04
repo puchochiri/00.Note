@@ -4,7 +4,8 @@
 1. 내 평생에 가는 길
 2. 타자 5분
 3. secondlife_react native(10분)
-4. 프로그래머스 10분 java
+   DK location not found. Define a valid SDK location with an ANDROID_HOME environment variable or by setting the sdk.dir path in your project's local properties file at '/Users/yangseon-u/LearnReactNavigation/android/local.properties'.
+5. 프로그래머스 10분 java
    
    
 230703
