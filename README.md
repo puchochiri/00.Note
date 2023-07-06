@@ -2,8 +2,8 @@
 230705
 3시간 야근
 1. 내 평생에 가는 길
-2. secondlife_react native(10분)
-3. reactnative 10(분)
+2. secondlife_react native(30분)
+3. reactnative (30분)
 230704
 3시간 야근
 1. 내 평생에 가는 길
