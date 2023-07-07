@@ -3,7 +3,9 @@
 reactnative 에러 다수 발생...
 앱웹 모두 되는 flutter dart 해볼것
 1. 내 평생에 가는 길
-2. 
+2. secondlife(dart)
+3. dot2dot(dart)
+
 230705
 3시간 야근
 1. 내 평생에 가는 길
