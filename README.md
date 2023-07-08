@@ -1,4 +1,8 @@
 # 00.Note
+230708
+1. 내 평생에 가는길
+2. flutter 1시간
+
 230706
 reactnative 에러 다수 발생...
 앱웹 모두 되는 flutter dart 해볼것
