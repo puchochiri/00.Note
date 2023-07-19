@@ -3,7 +3,8 @@
 예배
 1. 타자 5
 2. 내 평생에 가는길
-3. flutter 60
+3. flutter 60(mac,window)
+4. 단축키 10분(macos,android,window)
 230718
 예배
 1. 타자 5
