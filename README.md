@@ -5,6 +5,7 @@
 2. 내 평생에 가는 길
 3. flutter 60(window)
 4. 단축키 5분(window)
+5. github branch로 올렸다받기
 
 230719
 예배
