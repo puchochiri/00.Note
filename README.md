@@ -1,6 +1,19 @@
 # 00.Note
+230722
+1. 타자 5
+2. 내 평생에 가는 길
+3. flutter 60(window)
+4. 단축키 5분(window)
+5. github branch로 올렸다받기
+   
+230721
+1. 타자 5
+2. 내 평생에 가는 길
+3. flutter 60(mac)
+4. 단축키 5분(mac)
+5. github branch로 올렸다받기
+   
 230720
-예배
 1. 타자 5
 2. 내 평생에 가는 길
 3. flutter 60(window)
@@ -8,19 +21,16 @@
 5. github branch로 올렸다받기
 
 230719
-예배
 1. 타자 5
 2. 내 평생에 가는길
 3. flutter 60(mac,window)
 4. 단축키 10분(macos,android,window)
 230718
-예배
 1. 타자 5
 2. 내 평생에 가는 길
 3. flutter 60
    
 230717
-예배
 1. 티자 5
 2. 내 평생에 가는 길
 3. flutter  30
