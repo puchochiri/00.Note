@@ -2,7 +2,7 @@
 230722
 1. 타자 5
 2. 내 평생에 가는 길
-3. flutter 60(window)
+3. flutter 60(window) _ 스테이트리스 위젯
 4. 단축키 5분(window_intellij)
    ctrl_shift_f- Find in path
 6. github branch로 올렸다받기
