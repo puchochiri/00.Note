@@ -3,8 +3,10 @@
 1. 타자 5
 2. 내평생에 가는 길
 3. flutter 75(macos) _
-4. 단축키 5 mac intellij refactoring ~
-5. github branch 사용 
+   requires SDK version >=3.0.6 <4.0.0, version solving failed.
+  --> terminal : flutter upgrade
+5. 단축키 5 mac intellij refactoring ~
+6. github branch 사용 
 230722
 1. 타자 5
 2. 내 평생에 가는 길
