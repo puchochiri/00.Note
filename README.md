@@ -3,8 +3,8 @@
 1. 타자 5
 2. 내평생에 가는 길
 3. flutter 75(macos) _
-4. 단축키 5
-5. github branch 사용
+4. 단축키 5 mac intellij refactoring ~
+5. github branch 사용 
 230722
 1. 타자 5
 2. 내 평생에 가는 길
