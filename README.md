@@ -2,7 +2,7 @@
 230724
 1. 타자 5
 2. 내평생에 가는길
-4. flutter 60 macos
+4. flutter 75 macos
 5. 단축키 5
 6. github branch 사용
    
