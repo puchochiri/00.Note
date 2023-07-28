@@ -3,9 +3,11 @@
 1. 타자 5
 2. 내 평생에 가는 길
 3. flutter 80(win)
-4. 단축키 5
-5. github branch 사용
-6. 은퇴이후의 삶
+   1) asset/img 못불러오는 에러 조치
+   2) commit
+5. 단축키 5
+6. github branch 사용
+7. 은퇴이후의 삶
 
    
 230727
