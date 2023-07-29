@@ -4,7 +4,7 @@
 2. 내 평생에 가는 길
 3. flutter 60(win)
 4. flutter 60(mac)
-5. 단축키 5
+5. 단축키 5 win_intell_General
 6. gitgub branch 사용
 7. 은퇴이후의 삶
 230728
