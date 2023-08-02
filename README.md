@@ -5,6 +5,12 @@
 3. flutter 60(win)
 5. 은퇴이후의 삶 60
    - https://flutter.github.io/samples/navigation_and_routing.html
+   - Building with plugins requires symlink support.
+
+	Please enable Developer Mode in your system settings. Run
+	  start ms-settings:developers
+	to open settings.
+
 7. github branch
 8. 디자인
    
