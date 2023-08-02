@@ -4,8 +4,9 @@
 2. 내 평생에 가는 길
 3. flutter 60(win)
 5. 은퇴이후의 삶 60
-6. github branch
-7. 디자인
+   - https://flutter.github.io/samples/navigation_and_routing.html
+7. github branch
+8. 디자인
    
 230801
 1. 타자 5
