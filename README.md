@@ -5,7 +5,7 @@
 3. 프로젝트(60)
 4. flutter 90(win)
 5. github branch
-
+6. 신문 월,화
 
 230803
 1. 타자 5
