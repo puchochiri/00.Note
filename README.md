@@ -1,12 +1,16 @@
 # 00.Note
+230805
+
 230804
 1. 타자 5
 2. 내 평생에 가는길
-3. 프로젝트(30)
-4. flutter 60(win)
-5. flutter ui 60
-6. github branch
-7. 신문 월,화
+3. 프로젝트(30) x
+   https://api.flutter.dev/flutter/material/AppBar-class.html
+5. flutter 60(win) x
+6. flutter ui 60 x
+
+7. github branch
+8. 신문 월,화
 
 230803
 1. 타자 5
