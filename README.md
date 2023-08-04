@@ -2,10 +2,11 @@
 230804
 1. 타자 5
 2. 내 평생에 가는길
-3. 프로젝트(60)
-4. flutter 90(win)
-5. github branch
-6. 신문 월,화
+3. 프로젝트(30)
+4. flutter 60(win)
+5. flutter ui 60
+6. github branch
+7. 신문 월,화
 
 230803
 1. 타자 5
