@@ -1,12 +1,19 @@
 # 00.Note
+
 230805
 1. 타자 5
 2. 내 평생에 가는길
 3. 프로젝트 60
-4. flutter 180
-5. flutter ui 120
-6. github branch
-7. 신문 수 목
+   grid and list
+   https://docs.flutter.dev/ui/layout
+   build a layout
+   https://docs.flutter.dev/ui/layout/tutorial
+   
+   
+5. flutter 180
+6. flutter ui 120
+7. github branch
+8. 신문 수 목
 
    
 
