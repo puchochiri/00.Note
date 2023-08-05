@@ -1,7 +1,15 @@
 # 00.Note
 230805
-mac androidstudio 자동완성
-https://dnight.tistory.com/entry/Android-Studio-%EC%9E%90%EB%8F%99%EC%99%84%EC%84%B1-%EA%B8%B0%EB%8A%A5-%EC%95%88%EB%90%A0%EA%B2%BD%EC%9A%B0-with-MAC
+1. 타자 5
+2. 내 평생에 가는길
+3. 프로젝트 60
+4. flutter 180
+5. flutter ui 120
+6. github branch
+7. 신문 수 목
+
+   
+
 230804
 1. 타자 5
 2. 내 평생에 가는길
