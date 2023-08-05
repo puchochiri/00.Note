@@ -4,9 +4,9 @@
 1. 타자 5
 2. 내 평생에 가는길
 3. 프로젝트 60
-   grid and list
+   1) grid and list
    https://docs.flutter.dev/ui/layout
-   build a layout
+   2) build a layout
    https://docs.flutter.dev/ui/layout/tutorial
    
    
