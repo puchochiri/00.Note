@@ -4,6 +4,21 @@
 2.내 평생에 가는길
 3.프로젝트 30
 4.flutter 60(mac)
+  -- flutter_video_call
+  Launching lib/main.dart on iPhone 14 in debug mode...
+	Running pod install...
+	Running Xcode build...
+	Xcode build done.                                           11.0s
+	Failed to build iOS app
+	Lexical or Preprocessor Issue (Xcode): 'AgoraRtcWrapper/iris_rtc_cxx_api.h' file not found
+	/Users/seonwooyang/.pub-cache/hosted/pub.dev/agora_rtc_engine-6.0.0/ios/Classes/VideoViewController.mm:3:8
+	
+	Lexical or Preprocessor Issue (Xcode): 'AgoraRtcWrapper/iris_video_processor_cxx.h' file not found
+	/Users/seonwooyang/.pub-cache/hosted/pub.dev/agora_rtc_engine-6.0.0/ios/Classes/TextureRenderer.mm:2:8
+	
+	Could not build the application for the simulator.
+	Error launching application on iPhone 14.
+
 5.fultter 60(ui)
 6.신문 금토
 230805
