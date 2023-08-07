@@ -6,12 +6,17 @@
 4. flutter 60(win)
 
 
+
+
+
 230806
 1.타자 5
 2.내 평생에 가는길
 3.프로젝트 30
 4.flutter 60(mac)
+  
   -- flutter_video_call
+ 
   Launching lib/main.dart on iPhone 14 in debug mode...
 	Running pod install...
 	Running Xcode build...
