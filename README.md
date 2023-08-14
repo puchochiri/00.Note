@@ -7,6 +7,17 @@
 5. BI 0.5
 6. 책 --> 강의 --> 플젝(board, afl)
 7. dart _OCI
+8. git ssh 사용법
+   - ssh-keygen -t ed25519 -C "your_email@example.com"
+   - eval "$(ssh-agent -s)"
+   - ssh-add ~/.ssh/id_ed25519
+   - pbcopy < ~/.ssh/id_ed25519.pub
+   - git clone git@github.com:puchochiri/flutter_calendar_scheduler.git
+   - 참고블로그 : https://kotlinworld.com/283
+
+
+
+
    
 230813
 1. 타자 5
