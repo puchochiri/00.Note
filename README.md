@@ -8,6 +8,12 @@
 6. 강의 3
 7. 신문
 
+8. Launching lib\main.dart on sdk gphone64 x86 64 in debug mode...
+Running Gradle task 'assembleDebug'...
+Note: C:\Users\doawi\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.8.4\android\src\main\java\io\flutter\plugins\firebase\firestore\FlutterFirebaseFirestoreMessageCodec.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+√  Built build\app\outputs\flutter-apk\app-debug.apk.
+
 230815
 1. 타자 5
 2. 내 평생에 가는 길
