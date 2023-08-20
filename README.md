@@ -8,6 +8,7 @@
 - flutter & firebase
 - 강의 4시간
 - 신문
+- flutter & firebase 공식문서
 
   
 230820
