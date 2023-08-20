@@ -1,4 +1,11 @@
 # 00.Note
+230820
+- 커뮤니티 앱 android, ios 출시
+- flutter & firebase
+- 타자
+- 강의 4시간
+
+
 230819
 - 잔재미 코딩 로그인--> 게시판
 - 내 커뮤니티 앱 android, ios 출시 목적
