@@ -1,10 +1,14 @@
 # 00.Note
 230821
+- 타자
+- 내 평생에 가는길
+- 메모
 - 커뮤니티 앱 android, ios 출시
 - 잔재미코딩, 코딩팩토리 완강
 - flutter & firebase
-- 타자
 - 강의 4시간
+
+  
 230820
 - 커뮤니티 앱 android, ios 출시
 - flutter & firebase
