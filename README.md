@@ -9,6 +9,7 @@
 - 강의 4시간
 - 신문
 - flutter & firebase 공식문서
+  https://www.youtube.com/watch?v=GvIoBgmNgQw
 
   
 230820
