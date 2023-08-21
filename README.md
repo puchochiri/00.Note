@@ -1,4 +1,17 @@
 # 00.Note
+230822
+- 타자
+- 내 평생에 가는길
+- 메모
+- 커뮤니티 앱
+- 로그인/회원가입 ->  앱출시 -> 지원 -> 코딩팩토리 완강 -> ui
+- flutter & firebase
+- 신문
+- Flutter & firebase 공식문서
+  https://www.youtube.com/watch?v=GvIoBgmNgQw
+
+
+
 230821
 - 타자
 - 내 평생에 가는길
