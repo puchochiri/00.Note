@@ -1,4 +1,15 @@
 # 00.Note
+230825
+- 타자
+- 내 평생에 가는길
+- 메모
+- calendar  app 배포
+- ui
+- 커뮤니티 앱
+- fluter & firebase
+- flutter web
+- 신문
+  
 230824
 - 타자
 - 내 평생에 가는길
