@@ -8,7 +8,7 @@
 - 커뮤니티 앱
 - flutter & firebase
 - 신문
-
+- 안드로이드 앱 배포 https://www.youtube.com/watch?v=295bzuj02BI
 230823
 - 타자
 - 내 평생에 가는길
