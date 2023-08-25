@@ -9,7 +9,8 @@
 - fluter & firebase
 - flutter web
 - 신문
-  
+- quicktime player iphone screen "the operation could not be completed"
+  Iphone 껐다켜기
 230824
 - 타자
 - 내 평생에 가는길
