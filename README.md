@@ -4,6 +4,8 @@
 - 내 평생에 가는길
 - flutter web app deploy
 - flutter ui 클론코딩
+- 3시 이후 복습
+- 6시 이후 ios deploy comment
 
 - 
 230828
