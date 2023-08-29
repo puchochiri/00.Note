@@ -6,8 +6,8 @@
 - flutter ui 클론코딩
 - 3시 이후 복습
 - 6시 이후 ios deploy comment
-
-- 
+The following ProgressEvent$ object was thrown resolving an image codec: [object ProgressEvent]		
+- https://velog.io/@thovy/TROUBLESHOOTING-Flutter-web-CORS
 230828
 - 타자
 - 내 평생에 가는길
