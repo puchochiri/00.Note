@@ -3,6 +3,7 @@
 - 타자
 - 내 평생에 가는길
 - FLUTTER WEB AND APP 진도 3
+- img 안뜰 때 : flutter clean // flutter pub get
 - 복습3
 - 응용 3
 - 신문
