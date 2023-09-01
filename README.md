@@ -2,9 +2,9 @@
 230901
 - 타자
 - 내 평생에 가는길
-- FLUTTER WEB AND APP 진도(101~)
-- 신문
-- 
+- FLUTTER WEB AND APP 진도(101~114)
+- Flutter 커뮤니티
+- 신문 
 
 230831
 - 타자
