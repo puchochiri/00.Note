@@ -1,4 +1,11 @@
 # 00.Note
+230903
+- 예배
+- 내 평생에 가는길
+- Flutter Web and app
+- Flutter Community
+- 신문
+
 230902
 - 타자
 - 내 평생에 가는 길
