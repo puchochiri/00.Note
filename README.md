@@ -1,4 +1,11 @@
 # 00.Note
+230905
+- 예배
+- 내 평생에 가는길
+- Flutter web and app - spring boot
+- Flutter Community
+- 신문
+
 230903
 - 예배
 - 내 평생에 가는길
