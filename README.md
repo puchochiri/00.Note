@@ -1,4 +1,12 @@
 # 00.Note
+230906
+- 예배
+- 내 평생에 가는 길
+- Flutter
+- https://www.youtube.com/watch?v=k1VB9YY2Qk8&list=PLeFUpOmPweSixYxSMLLJ8rark-CFTLPn3&index=11
+- 신문
+- 강의 유튜브(코딩, 신문)
+  
 230905
 - 예배
 - 내 평생에 가는길
