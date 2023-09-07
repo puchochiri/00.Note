@@ -1,6 +1,12 @@
 # 00.Note
+230907
+- 타자
+- 내 평생에 가는길
+- flutter -spring
+- 신문
+- 
 230906
-- 예배
+- 타자
 - 내 평생에 가는 길
 - Flutter
 - https://www.youtube.com/watch?v=k1VB9YY2Qk8&list=PLeFUpOmPweSixYxSMLLJ8rark-CFTLPn3&index=11
