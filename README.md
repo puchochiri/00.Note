@@ -2,7 +2,8 @@
 230909
 - 타자
 - 내 평생에 가는길
-- sql
+- sql, 백
+- spring boot, sql
 - flutter
 - 신문
 - db
