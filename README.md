@@ -1,6 +1,14 @@
 # 00.Note
 230909
 - 타자
+- 내평생에 가는길
+- 프로그래머스 ORACLE
+- JAVA
+- JS
+- FLUTTER
+  
+230909
+- 타자
 - 내 평생에 가는길
 - sql, 백
 - spring boot, sql
