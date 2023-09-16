@@ -4,6 +4,7 @@
 - 내 평생에 가는길
 - 서류
 - c#.NET
+- https://www.youtube.com/watch?v=ZypiARkybY0 5:44
 - ORACLE
 - JAVA
 - JS
