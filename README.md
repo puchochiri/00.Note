@@ -5,8 +5,10 @@
 - 서류
 - C#.NET
 - https://www.youtube.com/watch?v=ZypiARkybY0
+- - 16분
 - ORACLE
-- JAVA
+- JAVA - 일반수학/2292벌집/
+- 
 - JS
 230916
 - 타자
