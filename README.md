@@ -1,4 +1,13 @@
 # 00.Note
+230917
+- 타자
+- 내 평생에 가는 길
+- 서류
+- C#.NET
+- https://www.youtube.com/watch?v=ZypiARkybY0
+- ORACLE
+- JAVA
+- JS
 230916
 - 타자
 - 내 평생에 가는길
