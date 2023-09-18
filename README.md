@@ -2,17 +2,17 @@
 230918
 - 타자
 - 내 평생에 가는 길
-- ORACLE 프로그래머스
-- JAVA 백준2292
+- ORACLE 프로그래머스 20
+- JAVA 백준2292	 20
   1
   2 ~ 7
   8 ~ 19
   20 ~ 37
   38 ~ 61
   
-- C#.NET ==> SPRING FRAMEWORK와 동일하게 구현
-- SPRING FRAMEWORK
-- 
+- C#.NET ==> SPRING FRAMEWORK와 동일하게 구현 20
+- SPRING FRAMEWORK 20
+- 데이터 준분석가   120
   
 230917
 - 타자
