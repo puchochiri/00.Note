@@ -1,4 +1,12 @@
 # 00.Note
+230918
+- 타자
+- 내 평생에 가는 길
+- ORACLE
+- JAVA
+- C#.NET
+- SPRING FRAMEWORK
+  
 230917
 - 타자
 - 내 평생에 가는 길
