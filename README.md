@@ -1,4 +1,13 @@
 # 00.Note
+230919
+- 타자
+- 내 평생에 가는 길
+- ORACLE 프로그래머스 20
+- JAVA 백준 2292
+- SPRING FRAMEWORK
+  전자정부 3.1 --> 3.5 --> 3.7
+  3.7 // JSP SPRING Maria db
+
 230918
 - 타자
 - 내 평생에 가는 길
