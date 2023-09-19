@@ -6,7 +6,7 @@
 - JAVA 백준 2292
 - SPRING FRAMEWORK
   전자정부 3.1 --> 3.5 --> 3.7
-  3.7 // JSP SPRING Maria db
+  // 3.7 // JSP SPRING Maria db + linux server + github//svn
 
 230918
 - 타자
