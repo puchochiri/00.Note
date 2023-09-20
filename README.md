@@ -1,4 +1,11 @@
 # 00.Note
+230920
+- 타자
+- 내 평생에 가는 길
+- ORACLE 20
+- JAVA 20
+- SPRING - EGOV 3.0 HELLOWORLD
+  
 230919
 - 타자
 - 내 평생에 가는 길
