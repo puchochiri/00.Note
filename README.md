@@ -1,5 +1,10 @@
 # 00.Note
-
+230921
+- 타자
+- 내 평생에 가는길
+- ORACLE 20
+- JAVA 20
+- SPRING -EGOV 3.0 HELLOWORLD
 - eGov Secure coding
 
 
