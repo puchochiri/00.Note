@@ -1,4 +1,12 @@
 # 00.Note
+230922
+- 타자
+- 내 평생에 가는길
+- ORACLE 20
+- JAVA 20
+- SPRING EGOV 3.7
+- EGOV SECURE CODING
+  
 230921
 - 타자
 - 내 평생에 가는길
