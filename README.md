@@ -1,4 +1,10 @@
 # 00.Note
+230925
+- 타자
+- github
+- https://toycode.tistory.com/entry/eGovFramework-37-%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%951
+
+
 230924
 - 타자
 - 내 평생에 가는길
