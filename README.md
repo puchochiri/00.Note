@@ -6,7 +6,7 @@
 - https://toycode.tistory.com/entry/eGovFramework-37-%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%951
 - eclipse  neno 다운로드
 - https://www.eclipse.org/downloads/packages/release/neon/3
-- c#.net
+- c#.net-->windowform
 - https://www.youtube.com/watch?v=0zLZQesgV5o
 - oracle
 - java
