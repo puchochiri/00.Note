@@ -7,6 +7,7 @@
 - eclipse  neno 다운로드
 - https://www.eclipse.org/downloads/packages/release/neon/3
 - c#.net
+- https://www.youtube.com/watch?v=0zLZQesgV5o
 - oracle
 - java
 
