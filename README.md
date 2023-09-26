@@ -1,6 +1,13 @@
 # 00.Note
 230926
+- 타자
+- github
+- c#.net 25
+- table 25
+- oracle
+- java
 - erp업무
+- 
 
 230925
 - 타자
