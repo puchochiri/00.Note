@@ -3,6 +3,8 @@
 - 타자
 - github
 - c#.net 25
+- - https://www.youtube.com/watch?v=0zLZQesgV5o
+- 12:22
 - table 25
 - oracle
 - java
