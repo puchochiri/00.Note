@@ -5,7 +5,8 @@
 - c#.net 25
 - - https://www.youtube.com/watch?v=0zLZQesgV5o
 - 12:22
-- table 25
+- table 25 _mssql 다운로드
+- https://lab.cliel.com/entry/MSSQL-MS-SQL-Server-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C%EB%B0%8F-%EC%84%A4%EC%B9%98
 - oracle
 - java
 - erp업무
