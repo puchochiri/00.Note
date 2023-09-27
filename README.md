@@ -3,7 +3,7 @@
 - 타자
 - c#.net
 - db
-- spring_egov
+- spring_egov --> server encounter error 2번 실행시키기
 - https://ivory-room.tistory.com/58
 - oracle
 - java
