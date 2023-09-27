@@ -1,4 +1,14 @@
 # 00.Note
+230927
+- 타자
+- c#.net
+- db
+- spring_egov
+- https://ivory-room.tistory.com/58
+- oracle
+- java
+- erp업무
+
 230926
 - 타자
 - github
