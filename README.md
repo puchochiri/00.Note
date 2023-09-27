@@ -2,6 +2,8 @@
 230927
 - 타자
 - c#.net
+- https://www.youtube.com/watch?v=0zLZQesgV5o
+31:22
 - db
 - spring_egov --> server encounter error 2번 실행시키기
 - https://ivory-room.tistory.com/58
