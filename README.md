@@ -1,4 +1,13 @@
 # 00.Note
+231002
+- 타자
+- c#.net
+- 설계
+- spring_egov
+- oracle
+- java
+- erp업무
+
 230927
 - 타자
 - c#.net
