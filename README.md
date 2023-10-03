@@ -2,6 +2,8 @@
 231004
 - 타자
 - spring_egov
+- 전자정부 3.7 게시판만들기
+- https://ivory-room.tistory.com/58
 
 231003
 - 타자
