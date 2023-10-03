@@ -1,4 +1,14 @@
 # 00.Note
+231003
+- 타자
+- c#.net
+- spring_egov
+- oracle
+- java
+- erp
+
+
+
 231002
 - 타자
 - c#.net
