@@ -2,6 +2,8 @@
 231004
 - 타자
 - c#.net
+- https://www.youtube.com/watch?v=0zLZQesgV5o
+31:22
 - spring_egov
 - oracle
 - java
