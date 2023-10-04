@@ -1,7 +1,11 @@
 # 00.Note
 231004
 - 타자
+- c#.net
 - spring_egov
+- oracle
+- java
+- erp 업무
 - 전자정부 3.7 게시판만들기
 - https://ivory-room.tistory.com/58
 
