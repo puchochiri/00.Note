@@ -5,7 +5,8 @@
 - 집 - spring egov
 - 회계 문제 2개씩
   --> https://www.comcbt.com/xe/h1/6939191
-- 
+- 물류관리사 문제 2개씩
+  --> https://www.comcbt.com/xe/h1/6939191
 
 
 231004
