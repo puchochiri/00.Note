@@ -1,4 +1,9 @@
 # 00.Note
+231005
+- spring_egov https://haenny.tistory.com/67
+- 
+
+
 231004
 - 타자
 - c#.net
