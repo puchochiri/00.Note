@@ -1,6 +1,10 @@
 # 00.Note
 231005
 - spring_egov https://haenny.tistory.com/67
+- 회사 - c#
+- 집 - spring egov
+- 회계 문제 2개씩
+  --> https://www.comcbt.com/xe/h1/6939191
 - 
 
 
