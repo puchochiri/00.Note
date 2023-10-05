@@ -4,7 +4,7 @@
 - spring_egov
 - c#.net
 - oracle
-- java/c#/node.js -> c#
+- java/c#/node.js -> c# (2236)
 - spring_egov https://haenny.tistory.com/67
 - 회사 - c#
 - 집 - spring egov
