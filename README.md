@@ -1,5 +1,10 @@
 # 00.Note
 231005
+- 타자
+- spring_egov
+- c#.net
+- oracle
+- java/c#/node.js -> c#
 - spring_egov https://haenny.tistory.com/67
 - 회사 - c#
 - 집 - spring egov
