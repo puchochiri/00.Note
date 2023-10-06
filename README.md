@@ -1,4 +1,10 @@
 # 00.Note
+231006
+-타자
+-spring_egov 할것
+-oracle -> 없어진 기록 찾기
+- java/c#/node.js -> c# (2236)
+
 231005
 - 타자
 - spring_egov
