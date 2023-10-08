@@ -1,4 +1,12 @@
 # 00.Note
+231007
+- 타자
+- 신문
+- spring egov 30
+- oracle
+- java/c/node -> java
+  
+
 231006
 -타자
 -spring_egov 할것
