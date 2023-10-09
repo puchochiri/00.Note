@@ -1,4 +1,11 @@
 # 00.Note
+231008
+- 타자
+- 신문
+- spring egov 30
+- oracle
+- java/c/node -> c# 19532
+
 231007
 - 타자
 - 신문
