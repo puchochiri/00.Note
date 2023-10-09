@@ -2,7 +2,7 @@
 231008
 - 타자
 - 신문
-- spring egov 30
+- spring egov 30 https://ivory-room.tistory.com/59
 - oracle
 - java/c/node -> c# 19532
 
