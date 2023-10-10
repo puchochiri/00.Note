@@ -3,7 +3,7 @@
 - 타자
 - c#.net(게시판/멀티게시판/커뮤니티/강의)
 - https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q
-- spring egov30 (게시판/멀티게시판/커뮤니티/강의)/flutter
+- spring egov30 (게시판/멀티게시판/커뮤니티/강의)/flutter(web/app)
 - oracle
 - java/c/node 
 231008
