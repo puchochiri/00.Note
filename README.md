@@ -3,6 +3,7 @@
 - 타자
 - c#.net(게시판/멀티게시판/커뮤니티/강의)
 - https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q
+- 7:00
 - spring egov30 (게시판/멀티게시판/커뮤니티/강의)/flutter(web/app)
 - 1. 목표:코드로배우는스프링웹프로젝트 외우기(3~5번반복) --> 강의로 기록
 - oracle
