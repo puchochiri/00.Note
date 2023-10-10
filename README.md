@@ -1,5 +1,11 @@
 # 00.Note
-
+231010
+- 타자
+- c#.net(멀티게시판/강의)
+- https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q
+- spring egov30 (멀티게시판/강의)/flutter
+- oracle
+- java/c/node 
 231008
 - 타자
 - 신문
