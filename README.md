@@ -5,7 +5,7 @@
 - oracle -h
 - --> 조건에 부합하는 중고거래 상태 조회하기
 
-- java/c/node -h
+- java/c/node -h --1018 list NULL값 EXCEPTION 어떻게할지
 - c#.net -c
 https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q
 9:25
