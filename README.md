@@ -1,4 +1,19 @@
 # 00.Note
+231013
+-typing
+-spring
+-oracle
+- --> 조건에 부합하는 중고거래 상태 조회하기
+
+- java/c/node -h --1018 list NULL값 EXCEPTION 어떻게할지
+- [java] java.lang.ArrayIndexOutOfBoundsException 원인 및 해결방법 - 배열 정렬 및 최대값, 최소값 구하기
+- c#.net -c
+https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q
+9:25
+- account -c
+- logistics -c
+- git - ch exec
+
 231011
 - typing -h
 - spring egov30
