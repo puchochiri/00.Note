@@ -7,8 +7,8 @@
 - c#.net -c
 https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q
 9:25
-- 전산회계 -c
-- 물류 -c
+- account -c
+- logistics -c
 
 
 
