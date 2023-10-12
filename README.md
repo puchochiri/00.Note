@@ -1,8 +1,14 @@
 # 00.Note
 231011
-- c#.net
+- typing -h
+- spring egov30
+- oracle -h
+- java/c/node -h
+- c#.net -c
 https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q
 9:25
+- 전산회계 -c
+- 물류 -c
 
 
 
