@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7
 9:25
 - account -c
 - logistics -c
+- git - ch exec
 
 
 
