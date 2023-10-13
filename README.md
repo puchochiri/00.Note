@@ -3,6 +3,8 @@
 -typing
 -spring
 - --> secure코딩 투자
+- https://www.inflearn.com/course/lecture?courseSlug=%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%BD%94%EC%8A%A4-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80&unitId=38011&tab=note
+- 1강22분
 -oracle
 - --> 조건에 부합하는 중고거래 상태 조회하기
 
