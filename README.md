@@ -2,6 +2,7 @@
 231013
 -typing
 -spring
+- --> secure코딩 투자
 -oracle
 - --> 조건에 부합하는 중고거래 상태 조회하기
 
@@ -13,6 +14,7 @@ https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7
 - account -c
 - logistics -c
 - git - ch exec
+  
 
 231011
 - typing -h
