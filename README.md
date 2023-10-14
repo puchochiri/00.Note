@@ -1,4 +1,18 @@
 # 00.Note
+231014
+- typting
+- spring
+- --> 전자정부강의2
+- oracle
+- java/n/c
+
+- c#.net -c
+https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q
+--> 2회
+- account -c
+- logistics -c
+- git - ch exec
+
 231013
 -typing
 -spring
