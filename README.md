@@ -8,7 +8,7 @@
 - java/c/n 1018 node
 
 - c#.net -c
-https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q
+[https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q](https://www.youtube.com/watch?v=wMOhz1_fMl4&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q&index=2)
 --> 2회
 - account -c
 - logistics -c
