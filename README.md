@@ -14,6 +14,13 @@ https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7
 - logistics -c
 - git - ch exec
 
+- target
+--> spring multiboard lecture
+--> c# multiboard lecture
+++ server/aws
+--> flutter multiboard lecture
+--> community service
+
 231015
 -typing
 -신문
