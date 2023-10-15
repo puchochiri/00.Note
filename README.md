@@ -1,4 +1,19 @@
 # 00.Note3
+231016
+- typing -h
+- spring --> 전자정부강의2
+- - https://www.inflearn.com/course/lecture?courseSlug=%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%BD%94%EC%8A%A4-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80&unitId=38013
+- 5:30 /  24.10.15  spring egov, framework multiboard 강의 오픈
+- oracle
+- java/c/n 1018 node
+
+- c#.net -c
+https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q
+--> 2회
+- account -c
+- logistics -c
+- git - ch exec
+
 231015
 -typing
 -신문
