@@ -1,4 +1,12 @@
-# 00.Note
+# 00.Note3
+231015
+-typing
+-신문
+-spring
+- --> 전자정부강의2
+- oracle
+- java/c/n 1018 c#
+
 231014
 - typting
 - spring
