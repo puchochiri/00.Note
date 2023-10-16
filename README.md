@@ -6,6 +6,7 @@
 - 5:30 /  24.10.15  spring egov, framework multiboard 강의 오픈
 - oracle
 - java/c/n 1018 node
+- bootstrap 4.6 10min
 
 - c#.net -c
 [https://www.youtube.com/watch?v=8ARnYQgShY8&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q](https://www.youtube.com/watch?v=wMOhz1_fMl4&list=PLxefhmF0pcPlDKe7smJMoHPNS1tJQ7w7q&index=2)
@@ -20,6 +21,7 @@
 ++ server/aws
 --> flutter multiboard lecture
 --> community service
+  
 
 231015
 -typing
