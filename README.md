@@ -1,4 +1,16 @@
 # 00.Note3
+231017
+- typing -h
+- spring
+- oracle
+- java/c/n
+- jquery
+
+- c#.net
+- account
+- logistics
+- git
+
 231016
 - typing -h
 - spring --> 전자정부강의2
