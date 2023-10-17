@@ -1,4 +1,17 @@
 # 00.Note3
+231018
+h
+- typing
+- spring
+- oracle
+- java/c/n
+- jquery
+- bootstrap
+w
+- c#.net
+- account
+- logistics
+- git
 231017
 - typing -h
 - spring
