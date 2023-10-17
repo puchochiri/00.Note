@@ -15,6 +15,8 @@
 - logistics
 - git
 
+information  암호화
+https://velog.io/@zz1996zz/%EC%95%94%ED%98%B8%ED%99%94%EC%99%80-%EB%B3%B5%ED%98%B8%ED%99%94-AesBytesEncryptor
 231016
 - typing -h
 - spring --> 전자정부강의2
