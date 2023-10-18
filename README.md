@@ -3,7 +3,7 @@
 h
 - typing
 - spring
-- - jdbc ojdbc 8 셋팅 필요
+- - jdbc ojdbc 8 셋팅 필요 (6?)
 - oracle
 - java/c/n
 - jquery
