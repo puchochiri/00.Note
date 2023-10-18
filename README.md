@@ -5,6 +5,7 @@ h
 - spring
 - - jdbc ojdbc 8 셋팅 필요 (6?)
   - C:\sqldeveloper-21.4.1.349.1822-no-jre\sqldeveloper\jdbc\lib
+  - C:\oraclexe\app\oracle\product\11.2.0\server\jdbc\lib
 - oracle
 - java/c/n
 - jquery
