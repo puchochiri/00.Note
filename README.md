@@ -1,4 +1,22 @@
 # 00.Note3
+231019
+h
+- typing
+- spring
+- 인프런
+- datasourcetest
+- mybatistest\
+- oracle
+- java/c/n
+- jquery
+- bootstrap
+
+w
+-c#.net
+-account
+-logistics
+git
+
 231018
 h
 - typing
