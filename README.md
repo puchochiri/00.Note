@@ -1,4 +1,22 @@
 # 00.Note3
+231020
+h
+- typing
+- spring
+- oracle
+- java/c/n
+- jquery
+- bootstrap
+- db 
+
+- c#.net
+- https://www.youtube.com/watch?v=pepfAOfwBcY
+1:40
+- account
+- logistics
+- git
+
+
 231019
 h
 - typing
