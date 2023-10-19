@@ -6,7 +6,7 @@ h
 - 인프런
 - datasourcetest
 - mybatistest\
-- oracle
+- oracle oracle
 - java/c/n
 - jquery
 - bootstrap
