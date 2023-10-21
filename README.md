@@ -3,7 +3,8 @@
 h
 -typing
 -db 196
--front -웹디자인기능사-반응형웹
+-front - /웹디자인기능사 문제참고
+--> Do it! 반응형 웹페이지 만들기
 -spring
 -oracle
 -java/c/n
