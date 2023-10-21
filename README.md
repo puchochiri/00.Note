@@ -6,6 +6,8 @@ h
 -front - /웹디자인기능사 문제참고
 --> Do it! 반응형 웹페이지 만들기
 -spring
+https://www.inflearn.com/course/lecture?courseSlug=%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%BD%94%EC%8A%A4-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80&unitId=38014
+42분
 root-config에 아래 등록(egov package등록) 해야 service repository mapper bean 읽음
     <context:component-scan base-package="egov">
     <!-- controller wpdhl  -->
