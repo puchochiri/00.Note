@@ -1,4 +1,13 @@
 # 00.Note3
+231021
+h
+-typing
+-db
+-spring
+-oracle
+-java/c/n
+
+
 231020
 h
 - typing
