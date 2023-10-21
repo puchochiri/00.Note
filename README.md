@@ -6,6 +6,12 @@ h
 -front - /웹디자인기능사 문제참고
 --> Do it! 반응형 웹페이지 만들기
 -spring
+root-config에 아래 등록(egov package등록) 해야 service repository mapper bean 읽음
+    <context:component-scan base-package="egov">
+    <!-- controller wpdhl  -->
+       <context:exclude-filter type="annotation" expression="org.springframework.stereotype.Controller" />
+    </context:component-scan>
+    
 -oracle
 -java/c/n
 
