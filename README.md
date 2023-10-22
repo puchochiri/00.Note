@@ -1,5 +1,19 @@
 # 00.Note3
+231022
+h
+-typing
+-db
+-front
+-spring
+-oracle
+-java/c/n
 
+- c#.net
+- https://www.youtube.com/watch?v=pepfAOfwBcY
+1:40
+- account
+- logistics
+- git
 
 231021
 h
