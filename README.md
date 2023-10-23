@@ -1,4 +1,24 @@
 # 00.Note3
+231023
+h
+-typing
+-db
+-front
+-spring
+-datasource
+-oracle
+-java/c/n
+
+c#.net
+https://www.youtube.com/watch?v=zP355Hdoje0
+account
+logistics
+git
+
+
+
+c
+
 231022
 h
 -typing
