@@ -7,6 +7,8 @@ h
 -spring
 -datasource
 -oracle
+헤비 유저가 소유한 장소
+
 -java/c/n
 
 c#.net
