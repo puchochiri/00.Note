@@ -5,6 +5,8 @@ h
 - db
 - front
 - spring
+- https://www.inflearn.com/course/lecture?courseSlug=%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%BD%94%EC%8A%A4-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80&unitId=38016&tab=curriculum
+- 로그인
 - datasource
 - oracle
 - java/c/n
