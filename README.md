@@ -1,4 +1,18 @@
 # 00.Note3
+231025
+h
+-typing
+-db
+-front
+-spring
+-oracle
+-java/c/n java 2839
+
+c#.net
+-account
+-logistice
+-git
+c
 231024
 h
 - typing
