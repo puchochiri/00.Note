@@ -1,4 +1,11 @@
 # 00.Note3
+231026
+h
+-typing
+-db
+-front
+-spring
+-oracle
 231025
 h
 -typing
@@ -10,6 +17,7 @@ h
 -securecoding
 https://www.youtube.com/watch?v=OlWCDiF3SDY&list=PLTojf_EePo6H5AU-UsBp7by949F8edG01&index=2
 c#.net
+https://www.youtube.com/watch?v=t6cAQqNNx2c 6lecture
 -account
 -logistice
 -git
