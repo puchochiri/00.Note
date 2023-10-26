@@ -11,6 +11,8 @@ h
 - https://www.youtube.com/watch?v=pGvqVo1nXp8 8분
 
 c
+- c#
+- https://www.youtube.com/watch?v=dRJsg3X8aEU 7강
 - account
 - logistics
 - git
