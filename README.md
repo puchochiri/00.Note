@@ -1,15 +1,23 @@
 # 00.Note3
 231026
 h
--typing
--db
--front
--spring
--oracle
+- typing
+- db
+- front
+- spring
+- oracle
+- java/c/n
+- securecoding
+
+c
+- account
+- logistics
+- git
+- 
 231025
 h
--typing
--db
+- typing
+- db
 -front
 -spring
 -oracle
