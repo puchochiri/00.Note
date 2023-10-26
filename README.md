@@ -8,6 +8,7 @@ h
 - oracle
 - java/c/n
 - securecoding
+- https://www.youtube.com/watch?v=pGvqVo1nXp8 8분
 
 c
 - account
