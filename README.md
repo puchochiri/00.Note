@@ -1,4 +1,14 @@
-# 00.Note3
+# 00.Note33
+231029
+- h
+- typing
+- db
+- front
+- spring
+- oracle
+- java/c/n
+- securecoding
+
 231028
 - h
 - typing
