@@ -12,7 +12,7 @@ h
 
 c
 - c#
-- https://www.youtube.com/watch?v=dRJsg3X8aEU 7강
+- https://www.youtube.com/watch?v=dRJsg3X8aEU 7강 5분
 - account
 - logistics
 - git
