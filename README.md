@@ -1,4 +1,23 @@
 # 00.Note33
+231030
+h
+- typing
+- db
+- front
+- spring
+- oracle
+- java/c/n
+- securecoding
+- https://www.youtube.com/watch?v=pGvqVo1nXp8 8분
+
+c
+- c#
+- https://www.youtube.com/watch?v=dRJsg3X8aEU 7강
+- account
+- logistics
+- git
+- 
+
 231029
 - h
 - typing
