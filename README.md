@@ -5,8 +5,8 @@ h
 - db
 - front
 - spring
-- oracle
-- java/c/n
+- oracle : 조회수가 가장 많은 중고거래 게시판 
+- java/c/n : 2750 할 것
 - securecoding
 - https://www.youtube.com/watch?v=pGvqVo1nXp8 8분
 
