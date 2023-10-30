@@ -1,4 +1,20 @@
 # 00.Note33
+231031
+- h
+- typing
+- db
+- front
+- spring
+- oracle
+- java/c/m
+- securecoding
+
+- c
+- c#
+- logistics
+- account
+- git
+
 231030
 h
 - typing
