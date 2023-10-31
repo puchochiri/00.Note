@@ -1,4 +1,21 @@
-# 00.Note33
+# 00.Note
+231101
+- 민방위
+- h
+- typing
+- securecoding
+- db
+- front
+- spring
+- oracle/mysql/YT
+- java/c/n/YT
+- todolist/todolist/YT
+
+
+- c#
+- logistics
+- account
+- git
 231031
 - h
 - typing
