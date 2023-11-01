@@ -1,4 +1,18 @@
 # 00.Note
+231102
+- h
+- typing
+- securecoding
+- db
+- front
+- spring
+- oracle/mysql/YT
+- java/c/n
+- todolist/todolist/YT
+- c
+- c#
+- trade temrs
+- account
 231101
 - 민방위
 - h
