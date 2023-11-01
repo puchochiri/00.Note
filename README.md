@@ -64,7 +64,7 @@ h
 
 c
 - c#
-- https://www.youtube.com/watch?v=dRJsg3X8aEU 7강 5분
+- https://www.youtube.com/watch?v=dRJsg3X8aEU 6강 부터
 - account
 - logistics
 - git
