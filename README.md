@@ -9,6 +9,8 @@
 - oracle/c/n/YT
 - todolist/todolist/YT
 
+-W
+-신문
 231102
 - h
 - typing
