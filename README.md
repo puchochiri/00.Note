@@ -1,4 +1,17 @@
 # 00.Note
+231106
+- h
+- typing
+- securecoding
+- db
+- front
+- spring
+- oracle/mysql
+- java/c/n/YT
+- todolist/todolist/YT
+
+- c
+- 
 231105
 - h
 - typing
