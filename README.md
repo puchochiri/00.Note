@@ -3,6 +3,7 @@
 
 - c
 - c#
+- https://www.youtube.com/watch?v=dRJsg3X8aEU
 - trade terms
 - account
 
