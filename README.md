@@ -17,7 +17,7 @@
 - trade terms
 - account
 
-- flutter
+- flutter - 화면
 
 231106
 - h
