@@ -1,5 +1,15 @@
 # 00.Note
 231107
+- h
+- typing
+- securecoding
+- db
+- html
+- spring
+- oracle/mysql
+- java/c/n/YT
+- todolist/todolist/YT
+
 
 - c
 - c#
