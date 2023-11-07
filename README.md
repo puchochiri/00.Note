@@ -11,6 +11,7 @@
 - todolist/todolist/YT
 
 - c#
+- https://www.youtube.com/watch?v=dRJsg3X8aEU 10분
 - tradeterms
 - account
 
