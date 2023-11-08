@@ -5,6 +5,7 @@
 - securecoding
 - db
 - html
+- https://www.youtube.com/watch?v=9Wi2a5_3umU
 - spring
 - oracle/mysql
 - java/c/n/YT
