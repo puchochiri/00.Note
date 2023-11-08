@@ -1,4 +1,19 @@
 # 00.Note
+231109
+- h
+- typing
+- securecoding
+- html
+- oracle/mysql
+- java/c/n/YT
+- todolist/todolist/YT
+
+- c#
+- 
+- tradeterms
+- account
+
+- flutter
 231108
 - h
 - typing
