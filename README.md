@@ -1,4 +1,10 @@
 # 00.Note
+231110
+- h
+- c#
+- tradeterms
+- account
+- erp
 231109
 - h
 - typing
