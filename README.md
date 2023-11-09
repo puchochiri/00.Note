@@ -4,6 +4,7 @@
 - typing
 - securecoding
 - html
+- https://www.youtube.com/watch?v=9Wi2a5_3umU
 - oracle/mysql
 - java/c/n/YT
 - todolist/todolist/YT
