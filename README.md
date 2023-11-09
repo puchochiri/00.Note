@@ -9,7 +9,8 @@
 - todolist/todolist/YT
 
 - c#
-- 
+- https://www.youtube.com/watch?v=kB2AMwGm5Ps&t=200s 8강 4분
+  
 - tradeterms
 - account
 
