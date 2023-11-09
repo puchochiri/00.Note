@@ -5,6 +5,7 @@
 - tradeterms
 - account
 - erp
+- - https://www.youtube.com/watch?v=dRJsg3X8aEU 6분
 231109
 - h
 - typing
