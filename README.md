@@ -19,7 +19,10 @@
 - erp
 - - https://www.youtube.com/watch?v=dRJsg3X8aEU 6분
 
- - flutter
+ - flutter todolist
+ - https://www.youtube.com/watch?v=K4P5DZ9TRns
+ - 모두가 할수 있는~
+ - 
 231109
 - h
 - typing
