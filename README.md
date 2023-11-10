@@ -1,11 +1,21 @@
 # 00.Note
 231110
 - h
+- typing
+- securecoding
+- html
+- oracle/mysql
+- java/c/n/YT
+- todolist/todolist/YT
+
+- 
 - c#
 - tradeterms
 - account
 - erp
 - - https://www.youtube.com/watch?v=dRJsg3X8aEU 6분
+
+ - flutter
 231109
 - h
 - typing
