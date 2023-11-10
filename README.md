@@ -37,6 +37,7 @@
 - account
 
 - flutter
+- 
 
   231108==============================
 
@@ -56,7 +57,8 @@
 - tradeterms
 - account
 
-- flutter
+- flutter todolist
+- https://www.youtube.com/watch?v=K4P5DZ9TRns 2분
 231107
 - h
 - typing
