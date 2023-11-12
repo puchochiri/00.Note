@@ -6,7 +6,9 @@
 - html
 - egov
 - oracle/mysql
+- 저자 별 카테고리 별 매출액 집계하기 - 프로그래머스 YT
 - java/c/n/YT
+- 2587 YT
 - todolist/todolist
 
 
