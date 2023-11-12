@@ -1,4 +1,23 @@
 # 00.Note
+231112
+-h
+- typing
+- securecoding
+- html
+- egov
+- oracle/mysql
+- java/c/n/YT
+- todolist/todolist
+
+
+c#
+tradeterms
+account
+erp
+
+flutter
+
+
 231110
 - h
 - typing
