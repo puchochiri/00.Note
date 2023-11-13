@@ -2,11 +2,11 @@
 231113
 - h
 - typing
-- securecoding
-- html
-- egov
-- oracle/mysql
-- java/c/n/YT
+- securecoding 5
+- html	20
+- egov	
+- oracle/mysql 20
+- java/c/n/YT 20
 - 2587 YT
 - todolist/todolist YT
 
@@ -16,7 +16,7 @@
 - account
 - erp
 
-- flutter
+- flutter 20
 
 231112
 -h
