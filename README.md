@@ -1,7 +1,7 @@
 # 00.Note
 231113
 - h
-- typing
+- typing/song
 - securecoding 5
 - html	20
 - egov	
