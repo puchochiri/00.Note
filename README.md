@@ -1,4 +1,9 @@
 # 00.Note
+231114
+
+c#
+- Account
+- tradeterm
 231113
 - h
 - typing/song
