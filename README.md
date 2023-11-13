@@ -2,6 +2,7 @@
 231114
 
 c#
+https://www.youtube.com/watch?v=Gl_PMlma13s 9강
 - Account
 - tradeterm
 231113
