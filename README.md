@@ -1,10 +1,28 @@
 # 00.Note
-231114
 
+231114
+- h
+- typing/song
+- securecoding 5
+- html 20
+- egov
+- oracle/mysql 20
+- javaj/c/n/YT
+- 2587YT
+- todolist/todolist YT
+
+- c
+- c#
+- tradeterm
+- account
+- erp
+  
+- flutter
 c#
 https://www.youtube.com/watch?v=Gl_PMlma13s 9강
 - Account
 - tradeterm
+  
 231113
 - h
 - typing/song
