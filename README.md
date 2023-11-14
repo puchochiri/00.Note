@@ -5,6 +5,7 @@
 - typing/song
 - securecoding 5
 - html 20
+- https://www.youtube.com/watch?v=9Wi2a5_3umU 24분
 - egov
 - oracle/mysql 20
 - javaj/c/n/YT
