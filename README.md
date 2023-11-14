@@ -16,6 +16,7 @@
 
 - c
 - c#
+- https://www.youtube.com/watch?v=Gl_PMlma13s 9강 4분
 - tradeterm
 - account
 - erp
