@@ -1,4 +1,13 @@
 # 00.Note
+231116
+-h
+-c
+- c#
+- Account
+- TradeTerm
+- Manufacturing
+- table
+  
 
 231115
 - h
