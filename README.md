@@ -3,11 +3,13 @@
 -h
 -c
 - c#
+- https://www.youtube.com/watch?v=Gl_PMlma13s 6분
 - Account
 - TradeTerm
 - Manufacturing
 - table
-  
+
+  flutter
 
 231115
 - h
