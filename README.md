@@ -1,4 +1,13 @@
 # 00.Note
+20231117
+-c 
+- c#
+- https://www.youtube.com/watch?v=Gl_PMlma13s 9분
+- Account
+- TradeTerm
+- Manufacturing
+- table
+
 231116
 -h
 -c
