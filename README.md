@@ -8,7 +8,7 @@
 - https://www.youtube.com/watch?v=9Wi2a5_3umU 27분
 - 다시보기
 - egov
-- https://www.inflearn.com/course/lecture?courseSlug=%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%BD%94%EC%8A%A4-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80&unitId=38018 16분
+- 9강 https://www.inflearn.com/course/lecture?courseSlug=%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%BD%94%EC%8A%A4-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80&unitId=38019
 - oracle/mysql/javaj/c/n/YT 20
 - 대여 횟수가 많은 자동차들의 월별 대여 횟수구하기
 - 2587_nodejs
