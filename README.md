@@ -1,4 +1,17 @@
 # 00.Note
+20231120
+- h
+- typing/song
+- securecoding
+- html
+- egov
+- oracle/mysql/java/c/n/YT
+
+- c#
+- Account
+- TradeTerm
+
+- flutter
 
 20231119
 - h
