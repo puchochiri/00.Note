@@ -4,6 +4,7 @@
 - typing/song
 - securecoding
 - html
+- https://www.youtube.com/watch?v=9Wi2a5_3umU 11분
 - egov
 - oracle/mysql/java/c/n/YT
 
