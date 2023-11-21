@@ -1,4 +1,25 @@
 # 00.Note
+20231122
+- h
+- typing/song
+- securecoding 5
+- html 20
+- 다시보기
+- egov
+- oracle/mysql/javaj/c/n/YT 20
+- 
+- todolist/todolist YT
+
+- -c
+- c#
+- https://www.youtube.com/watch?v=Gl_PMlma13s 6분
+- Account
+- TradeTerm
+- Manufacturing
+- table
+
+  flutter
+  
 20231121
 - h
 - typing/song
