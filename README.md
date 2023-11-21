@@ -12,7 +12,7 @@
 
 - -c
 - c#
-- https://www.youtube.com/watch?v=Gl_PMlma13s 6분
+- https://www.youtube.com/watch?v=Gl_PMlma13s 11:40
 - Account
 - TradeTerm
 - Manufacturing
