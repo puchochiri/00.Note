@@ -4,10 +4,12 @@
 - typing/song
 - securecoding
 - html
+- https://www.youtube.com/watch?v=9Wi2a5_3umU 18분
 - 다시보기
 - egov
 - oracle/mysql/java/c/n YT
 - todolist/todolist
+- 
 
 - c
 - c#
