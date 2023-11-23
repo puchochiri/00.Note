@@ -22,7 +22,7 @@
 - 다시보기
 - egov
 - oracle/mysql/javaj/c/n/YT 20
-- 
+- 프로그래머스_그룹별 조건에 맞는 식당 목록 출력하기_ORACLE
 - todolist/todolist YT
 
 - -c
