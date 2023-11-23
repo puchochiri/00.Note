@@ -1,4 +1,17 @@
 # 00.Note
+20231123
+- h
+- typing/song
+- securecoding
+- html
+- 다시보기
+- egov
+- oracle/mysql/java/c/n YT
+- todolist/todolist
+
+- c
+- c#
+- 
 20231122
 - h
 - typing/song
