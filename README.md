@@ -1,4 +1,16 @@
 # 00.Note
+20221125
+- c
+- h
+- typing
+- securecoding
+- html
+- egov
+- oracle/mysql/java/c/n/YT
+
+- flutter
+- 
+
 20231124
 - h
 - typsing
