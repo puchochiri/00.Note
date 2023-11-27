@@ -16,6 +16,7 @@
 - typsing
 - securecoding
 - html
+- https://www.youtube.com/watch?v=9Wi2a5_3umU 30분
 - egov
 - - oracle/mysql/java/c/n YT
 - 프로그래머스_그룹별 조건에 맞는 식당 목록 출력하기_MYSQL
