@@ -1,6 +1,10 @@
 # 00.Note
 20221125
 - c
+- c#
+- https://www.youtube.com/watch?v=ehfYLWLhJGU 1분
+- 업무숙지
+
 - h
 - typing
 - securecoding
