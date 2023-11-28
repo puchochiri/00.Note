@@ -9,6 +9,8 @@
 - typing
 - securecoding
 - html
+- [https://www.youtube.com/watch?v=9Wi2a5_3umU](https://www.youtube.com/watch?v=9Wi2a5_3umU) 완
+- 반복 2회 by 5회
 - egov
 - oracle/mysql/java/c/n/YT
 - flutter
