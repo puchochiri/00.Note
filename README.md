@@ -12,6 +12,8 @@
 - [https://www.youtube.com/watch?v=9Wi2a5_3umU](https://www.youtube.com/watch?v=9Wi2a5_3umU) 완
 - 반복 2회 by 5회
 - egov
+- https://www.inflearn.com/course/lecture?courseSlug=%EC%9B%B9%EA%B0%9C%EB%B0%9C-%EC%BD%94%EC%8A%A4-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80&unitId=38020
+- 16분
 - oracle/mysql/java/c/n/YT
 - 프로그래머스 오프라인/온라인 판매 데이터 통합하기 Oracle
 - flutter
