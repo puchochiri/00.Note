@@ -11,7 +11,6 @@
 - html
 - egov
 - oracle/mysql/java/c/n/YT
-
 - flutter
 - 
 
