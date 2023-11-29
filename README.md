@@ -1,5 +1,12 @@
 # 00.Note
-20221128
+20231130
+- c#
+- https://www.youtube.com/watch?v=ehfYLWLhJGU 6분
+- 업무 숙지
+
+
+
+20231128
 - c
 - c#
 - https://www.youtube.com/watch?v=ehfYLWLhJGU 1분
