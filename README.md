@@ -9,6 +9,9 @@
 - h
 - typing
 - securecoding
+- html
+- oracle/mysql/java/c/n/YT
+- 백준_1427_소트인사이드_java_동영상 불필요 짜름 필요
 
 
 
