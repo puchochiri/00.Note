@@ -1,5 +1,7 @@
 # 00.Note
-
+20231201
+c#
+https://www.youtube.com/watch?v=RzTKsL2UPNY 1분
 
 20231130
 - c#
