@@ -11,7 +11,6 @@
 - securecoding
 - html
 - oracle/mysql/java/c/n/YT
-- 백준_1427_소트인사이드_java_동영상 불필요 짜름 필요
 
 
 
@@ -32,6 +31,8 @@
 - 16분
 - oracle/mysql/java/c/n/YT
 - 프로그래머스 오프라인/온라인 판매 데이터 통합하기 Oracle
+- - 백준_1427_소트인사이드_java_동영상 불필요 짜름 필요
+
 - flutter
 - 
 
