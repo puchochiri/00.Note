@@ -8,6 +8,7 @@ h
 - 
 - html
 - egov/securecoding
+- 인프런 20분
 - oracle/mysql/java/c/n/YT
 - 신문
 - 경제YT
