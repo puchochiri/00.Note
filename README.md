@@ -5,8 +5,9 @@ c
 h
 - typing
 - YT
-- securecoding
+- 
 - html
+- egov/securecoding
 - oracle/mysql/java/c/n/YT
 - 신문
 20231201
