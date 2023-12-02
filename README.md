@@ -11,6 +11,7 @@ h
 - oracle/mysql/java/c/n/YT
 - 신문
 - 경제YT
+- 코딩 / 신문 교대로 볼 것
 20231201
 c#
 https://www.youtube.com/watch?v=RzTKsL2UPNY 1분
