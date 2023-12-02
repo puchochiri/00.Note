@@ -10,6 +10,7 @@ h
 - egov/securecoding
 - oracle/mysql/java/c/n/YT
 - 신문
+- 경제YT
 20231201
 c#
 https://www.youtube.com/watch?v=RzTKsL2UPNY 1분
