@@ -1,4 +1,12 @@
 # 00.Note
+20231202
+c
+
+h
+- typing
+- securecoding
+- html
+- oracle/mysql/java/c/n/YT
 20231201
 c#
 https://www.youtube.com/watch?v=RzTKsL2UPNY 1분
