@@ -4,9 +4,11 @@ c
 
 h
 - typing
+- YT
 - securecoding
 - html
 - oracle/mysql/java/c/n/YT
+- 신문
 20231201
 c#
 https://www.youtube.com/watch?v=RzTKsL2UPNY 1분
