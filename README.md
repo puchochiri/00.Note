@@ -13,6 +13,7 @@ h
 - 신문
 - 경제YT
 - 코딩 / 신문 교대로 볼 것
+- 백준_1427_소트인사이드_c#
 20231201
 c#
 https://www.youtube.com/watch?v=RzTKsL2UPNY 1분
