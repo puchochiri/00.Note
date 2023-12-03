@@ -1,4 +1,13 @@
 # 00.Note
+20231204
+c
+- c#
+- https://www.youtube.com/watch?v=RzTKsL2UPNY 1분
+
+h
+- 
+
+
 20231202
 c
 
