@@ -5,7 +5,11 @@ c
 - https://www.youtube.com/watch?v=RzTKsL2UPNY 4분
 
 h
-- 
+- typing
+- html
+- egov/securecoding
+- oracle/mysql/java/c/n
+- https://school.programmers.co.kr/learn/courses/30/lessons/164673
 
 
 20231202
