@@ -11,7 +11,7 @@ todolist 3 -- board 3 -- multiboard 3 -- basic erp 3
 20231205
 c
 - c#
-- https://www.youtube.com/watch?v=RzTKsL2UPNY 8분
+- https://www.youtube.com/watch?v=RzTKsL2UPNY 11분
 
 h
 - typing
