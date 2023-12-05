@@ -2,6 +2,7 @@
 20231206
 c
 c#
+https://www.youtube.com/watch?v=RzTKsL2UPNY 11분
 
 h
 
