@@ -1,4 +1,16 @@
 # 00.Note
+20231207
+c
+c#
+
+
+h
+- typing
+- html
+- egov/secure
+- flutter
+- 
+
 20231206
 c
 c#
