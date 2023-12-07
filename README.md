@@ -1,4 +1,13 @@
 # 00.Note
+20231208
+
+inttellij 
+1. egov3.7 시작
+https://teerjwi21.tistory.com/7
+3. egov3.7 eclipse와 협업
+5. 그냥s spring import
+https://teerjwi21.tistory.com/6
+
 20231207
 c
 c#
