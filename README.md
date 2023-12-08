@@ -1,5 +1,10 @@
 # 00.Note
 20231208
+todo
+검색
+https://www.google.com/search?q=intellij+%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80+3&sca_esv=589119146&biw=1536&bih=703&source=lnt&tbs=cdr%3A1%2Ccd_min%3A12%2F9%2F2021%2Ccd_max%3A12%2F9%2F2023&tbm=
+
+https://madjoker.tistory.com/entry/%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80%ED%91%9C%EC%A4%80%ED%94%84%EB%A0%88%EC%9E%84-%EC%9B%8C%ED%81%AC-%ED%98%B8%ED%99%98%EC%84%B1-%EC%A4%80%EC%88%98-%EC%B5%9C%EC%86%8C-%EC%B0%B8%EA%B3%A0%EA%B8%B0%EB%A1%9D%EC%9A%A9
 
 inttellij 
 1. egov3.7 시작  YT
