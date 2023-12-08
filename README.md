@@ -8,6 +8,7 @@ https://teerjwi21.tistory.com/7
 5. 그냥s spring import YT
 https://teerjwi21.tistory.com/6
 
+maven 3.6.3으로 시작
 1. maven wrapper
 
 2.              <dependency>
