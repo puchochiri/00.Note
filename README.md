@@ -2,11 +2,13 @@
 20231208
 
 inttellij 
-1. egov3.7 시작
+1. egov3.7 시작  YT
 https://teerjwi21.tistory.com/7
-3. egov3.7 eclipse와 협업
-5. 그냥s spring import
+3. egov3.7 eclipse와 협업  YT
+5. 그냥s spring import YT
 https://teerjwi21.tistory.com/6
+
+
 
 20231207
 c
