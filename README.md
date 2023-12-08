@@ -8,6 +8,7 @@ https://teerjwi21.tistory.com/7
 5. 그냥s spring import YT
 https://teerjwi21.tistory.com/6
 
+https://velog.io/@sung-ik-je/Intellij-Maven-3.8.1-%EB%B2%84%EC%A0%84-%EC%B6%A9%EB%8F%8C
 
 
 20231207
