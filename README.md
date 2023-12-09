@@ -1,4 +1,11 @@
 # 00.Note
+20231209
+신문
+html
+egov/secure
+flutter
+oracle/mysql/java/c/n
+
 20231208
 ===todo===
 검색방법
