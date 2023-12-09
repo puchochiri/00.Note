@@ -16,6 +16,27 @@ https://madjoker.tistory.com/entry/%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80%ED%91%9C
 https://cherry-beer.tistory.com/9
 -- 3.10 intellij
 maven 3.81
+==>
+	        <repository>
+	            <id>mvn2s</id>
+	            <url>https://repo1.maven.org/maven2/</url>
+	            <releases>
+	                <enabled>true</enabled>
+	            </releases>
+	            <snapshots>
+	                <enabled>true</enabled>
+	            </snapshots>
+	        </repository>
+	        <repository>
+	            <id>egovframe</id>
+	            <url>https://maven.egovframe.go.kr/maven/</url>
+	            <releases>
+	                <enabled>true</enabled>
+	            </releases>
+	            <snapshots>
+	                <enabled>false</enabled>
+	            </snapshots>
+	        </repository>
 
 ===todo===
 ==todo==
