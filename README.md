@@ -17,26 +17,91 @@ https://cherry-beer.tistory.com/9
 -- 3.10 intellij
 maven 3.81
 ==>
-	        <repository>
-	            <id>mvn2s</id>
-	            <url>https://repo1.maven.org/maven2/</url>
-	            <releases>
-	                <enabled>true</enabled>
-	            </releases>
-	            <snapshots>
-	                <enabled>true</enabled>
-	            </snapshots>
-	        </repository>
-	        <repository>
-	            <id>egovframe</id>
-	            <url>https://maven.egovframe.go.kr/maven/</url>
-	            <releases>
-	                <enabled>true</enabled>
-	            </releases>
-	            <snapshots>
-	                <enabled>false</enabled>
-	            </snapshots>
-	        </repository>
+<repositories>
+        <repository>
+            <id>mvn2s</id>
+            <url>https://repo1.maven.org/maven2/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+        <repository>
+            <id>egovframe</id>
+            <url>https://maven.egovframe.go.kr/maven/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
+
+    <dependencies>
+ 
+		<!-- egovframework.rte -->
+        <dependency>
+            <groupId>egovframework.rte</groupId>
+            <artifactId>egovframework.rte.ptl.mvc</artifactId>
+            <version>${egovframework.rte.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>egovframework.rte</groupId>
+            <artifactId>egovframework.rte.fdl.cmmn</artifactId>
+            <version>${egovframework.rte.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>egovframework.rte</groupId>
+            <artifactId>egovframework.rte.psl.dataaccess</artifactId>
+            <version>${egovframework.rte.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>egovframework.rte</groupId>
+            <artifactId>egovframework.rte.fdl.logging</artifactId>
+            <version>${egovframework.rte.version}</version>
+        </dependency>
+   
+        <dependency>
+            <groupId>egovframework.rte</groupId>
+            <artifactId>egovframework.rte.fdl.idgnr</artifactId>
+            <version>${egovframework.rte.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>egovframework.rte</groupId>
+            <artifactId>egovframework.rte.fdl.property</artifactId>
+            <version>${egovframework.rte.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>egovframework.rte</groupId>
+            <artifactId>egovframework.rte.fdl.security</artifactId>
+            <version>${egovframework.rte.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>egovframework.rte</groupId>
+            <artifactId>egovframework.rte.fdl.excel</artifactId>
+            <version>${egovframework.rte.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>egovframework.rte</groupId>
+            <artifactId>egovframework.rte.bat.core</artifactId>
+            <version>${egovframework.rte.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>egovframework.rte</groupId>
+            <artifactId>egovframework.rte.fdl.crypto</artifactId>
+            <version>${egovframework.rte.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>egovframework.rte</groupId>
+            <artifactId>egovframework.rte.fdl.access</artifactId>
+            <version>${egovframework.rte.version}</version>
+        </dependency>
+        
+  </dependencies>
+출처: https://madjoker.tistory.com/entry/전자정부표준프레임-워크-호환성-준수-최소-참고기록용 [Stay foolish:티스토리]
 
 ===todo===
 ==todo==
