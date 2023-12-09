@@ -7,7 +7,7 @@ https://madjoker.tistory.com/entry/%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80%ED%91%9C
 
 https://www.egovframe.go.kr/home/qainfo/qainfoRead.do?pagerOffset=0&searchKey=&searchValue=&menuNo=69&qaId=QA_00000000000020437
 
-
+플러그인 안맏아 지는 거 maven repository에서 수동으로 library 추가
 
 신문
 html
