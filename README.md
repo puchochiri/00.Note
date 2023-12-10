@@ -6,7 +6,9 @@ h
 - html
 - egov/secure/intellij/eclipse
 - --> https://github.com/eGovFramework/egovframe-web-sample.git eclipse로 실행 YT
-- --> intellij egov 실행 YT 
+- --> intellij egov 실행 YT
+- eclipse github initial commit https://kitty-geno.tistory.com/81 참조해서 할 것
+- 
 - oracle/mysql/java/c/n
 
 - 
