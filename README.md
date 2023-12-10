@@ -1,4 +1,12 @@
 # 00.Note
+20231210
+c#
+h
+- typing
+- html
+- egov/secure/intellij/eclipse
+- oracle/mysql/java/c/n
+  
 
 20231209
 intellij egov 심플페이지 pull 해볼것
