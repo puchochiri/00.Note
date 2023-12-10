@@ -5,7 +5,11 @@ h
 - typing
 - html
 - egov/secure/intellij/eclipse
+- --> https://github.com/eGovFramework/egovframe-web-sample.git eclipse로 실행 YT
+- --> intellij egov 실행 YT 
 - oracle/mysql/java/c/n
+
+- 
   
 
 20231209
