@@ -1,4 +1,11 @@
 # 00.Note
+20231214
+h
+html : 책 62p
+egov/secure : intellij --> git --> eclipse 실행
+flutter
+oracle/mysql/java/c/n
+
 20231210
 c#
 h
