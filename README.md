@@ -1,4 +1,9 @@
 # 00.Note
+20231216
+회계
+https://www.youtube.com/watch?v=dhGYQWpt5tI&list=PLYixJcX54KQvbYTZsHcEN251vjJa_4TWf
+
+
 20231214
 h
 html : 책 62p
