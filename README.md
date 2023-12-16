@@ -1,5 +1,6 @@
 # 00.Note
 20231216
+한국세무사회 
 회계
 2급 ->  전산회계 프로그램 설치 및 실행
 https://www.youtube.com/watch?v=Hy-Q1E5X-Ac
