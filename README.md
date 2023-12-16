@@ -1,6 +1,9 @@
 # 00.Note
 20231216
 회계
+2급 ->  전산회계 프로그램 설치 및 실행
+https://www.youtube.com/watch?v=Hy-Q1E5X-Ac
+1급
 https://www.youtube.com/watch?v=dhGYQWpt5tI&list=PLYixJcX54KQvbYTZsHcEN251vjJa_4TWf
 
 
