@@ -1,5 +1,13 @@
 # 00.Note
-20231216
+
+# 20231222
+1. typing
+2. html
+3. egov/secure
+4. flutter
+5. oracle/mysql/java/c/n
+
+# 20231216
 한국세무사회 
 회계
 2급 ->  전산회계 프로그램 설치 및 실행
