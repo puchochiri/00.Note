@@ -1,5 +1,13 @@
 # 00.Note
 
+#20231223
+1. typing
+2. html
+3. egov/flutter
+4. oracle/mysql/java/c/n YT
+5. 신문
+6. YT
+
 # 20231222
 1. typing
 2. html
