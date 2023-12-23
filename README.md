@@ -4,9 +4,12 @@
 1. typing
 2. html
 3. egov/flutter
-4. oracle/mysql/java/c/n YT
-5. 신문
-6. YT
+   eclipse/create repository/ 프로젝트 경로 선택/ 프로젝트 오른쪽 클릭 addIndex/ commit and push/ git repository 생성 / url 복사하여/ 원하는 branch에 넣기
+5. oracle/mysql/java/c/n YT
+6. 신문
+7. YT
+
+8. 
 
 # 20231222
 1. typing
