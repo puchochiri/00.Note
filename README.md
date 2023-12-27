@@ -1,4 +1,11 @@
 # 00.Note
+#20231227
+1. typing
+2. html
+3. egov/flutter
+4. oracle/mysql/java/c/n YT
+5. 회계
+   
 
 #20231225
 1. typing
