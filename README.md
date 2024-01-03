@@ -1,4 +1,8 @@
 # 00.Note
+#20240103
+c# .net6 ==> oracle core neget 다운 다른 oracle nuget 삭제
+
+
 #20231227
 1. typing
 2. html
