@@ -1,4 +1,14 @@
 # 00.Note
+#20240104
+typing
+account
+
+db2 설치할 것
+"C:\SERVER_DEC\image\setup.exe"
+
+* mapper vo grid 자동 생성
+* 자동 변환 프로그램
+
 #20240103
 c# .net6 ==> oracle core neget 다운 다른 oracle nuget 삭제
 
