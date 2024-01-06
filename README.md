@@ -1,4 +1,12 @@
 # 00.Note
+#20240106
+1. typing
+2. Account
+3. 신문
+4. 코딩 자동화 c# mapper 만들기
+5. html
+6. egov
+7. flutter
 #20240104
 typing
 account
