@@ -5,8 +5,8 @@
 3. 코딩 자동화
    - 서버
    - db2
-     
-
+www.ibm.com/support/fixcentral/swg/downloadFixes     
+/home/admin/DownloadDirector
 #20240108
 db2 연결 서버 이용
 #20240106
