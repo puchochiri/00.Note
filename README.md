@@ -1,4 +1,11 @@
 # 00.Note
+#20240125
+1. typing
+2. account
+3. html(책)
+4. 백준/프로그래머스
+
+
 #20240116
 1. typing
 2. Account
