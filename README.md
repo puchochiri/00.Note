@@ -1,4 +1,11 @@
 # 00.Note
+#20240128
+1.typing
+2.신문
+3.html
+egov sample ==> intellj  // eclipse, intellij 번갈아 코딩할 것
+4. 백준 11651 자바 완료
+
 #20240127
 1. typing
 2. account
