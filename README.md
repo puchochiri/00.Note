@@ -1,4 +1,11 @@
 # 00.Note
+#20240130
+1. typing
+2. 신문
+3. account==> 회계 4개, erp 4개
+4. egov sample ==> intellj // eclipse, intellij 번갈아 코딩할 것 ==> html
+5. flutter ==> 플젝
+
 #20240128
 1.typing
 2.신문
