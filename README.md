@@ -6,6 +6,8 @@
 4. egov sample ==> intellj // eclipse, intellij 번갈아 코딩할 것 ==> html
 5. flutter ==> 플젝
 6. erd설계
+   -- jsp-java-mybatis--maria 첫번째
+   -- flutter 두번째
    
 
 #20240128
