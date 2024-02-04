@@ -1,4 +1,10 @@
 # 00.Note
+#20240204
+1. typing
+2. account, erp logic *
+3. 백준/프로그래머스 *
+   
+
 #20240130
 1. typing
 2. 신문
