@@ -1,9 +1,9 @@
 # 00.Note
 #20240204
 1. typing
-2. account, erp logic *
-3. 백준/프로그래머스 *
-   
+2. account, erp logic * 1시간
+3. 백준/프로그래머스 * 40분
+4. html/spring/java -->책 10분
 
 #20240130
 1. typing
