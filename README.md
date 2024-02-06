@@ -1,4 +1,11 @@
 # 00.Note
+#20240206
+1.typing 3
+2.gospel 3
+3.account 1
+4.baekjun/programmers
+5. unit-html
+
 #20240204
 1. typing
 2. account, erp logic * 1시간
