@@ -1,6 +1,10 @@
 # 00.Note
 #20240212
 1.typing
+2.gospel
+3.account
+4.백준/프로그래머스 동물의 아이디와 이름 oracle
+5. 
 
 #20240206
 1.typing 3
