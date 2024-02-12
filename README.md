@@ -1,4 +1,7 @@
 # 00.Note
+#20240212
+1.typing
+
 #20240206
 1.typing 3
 2.gospel 3
